@@ -1,0 +1,41 @@
+{
+  "Random Forest (tuned)": {
+    "type": "classical",
+    "file": "models/random_forest_tuned.joblib",
+    "test_accuracy": 0.7636986301369864
+  },
+  "Logistic Regression": {
+    "type": "classical",
+    "file": "models/logistic_regression.joblib",
+    "test_accuracy": 0.625
+  },
+  "Decision Tree": {
+    "type": "classical",
+    "file": "models/decision_tree.joblib",
+    "test_accuracy": 0.553082191780822
+  },
+  "Random Forest": {
+    "type": "classical",
+    "file": "models/random_forest.joblib",
+    "test_accuracy": 0.7534246575342466
+  },
+  "KNN": {
+    "type": "classical",
+    "file": "models/knn.joblib",
+    "test_accuracy": 0.6506849315068494
+  },
+  "CNN trained from scratch": {
+    "type": "cnn",
+    "file": "models/cnn.pt",
+    "test_accuracy": 0.7791095890410958,
+    "classes": [
+      "algae",
+      "major_crack",
+      "minor_crack",
+      "peeling",
+      "plain",
+      "spalling",
+      "stain"
+    ]
+  }
+}

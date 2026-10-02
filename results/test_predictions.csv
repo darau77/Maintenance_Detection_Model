@@ -1,0 +1,2921 @@
+model,path,true_label,predicted_label
+Logistic Regression,train/algae/cls00_028.jpg,algae,algae
+Logistic Regression,train/algae/cls00_029.jpg,algae,algae
+Logistic Regression,train/algae/cls00_036.jpg,algae,algae
+Logistic Regression,train/algae/cls00_041.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_042.jpg,algae,stain
+Logistic Regression,train/algae/cls00_044.jpg,algae,algae
+Logistic Regression,train/algae/cls00_045.jpg,algae,algae
+Logistic Regression,train/algae/cls00_053.jpg,algae,algae
+Logistic Regression,train/algae/cls00_062.jpg,algae,plain
+Logistic Regression,train/algae/cls00_065.jpg,algae,algae
+Logistic Regression,train/algae/cls00_066.jpg,algae,algae
+Logistic Regression,train/algae/cls00_072.jpg,algae,stain
+Logistic Regression,train/algae/cls00_086.jpg,algae,minor_crack
+Logistic Regression,train/algae/cls00_088.jpg,algae,algae
+Logistic Regression,train/algae/cls00_096.jpg,algae,peeling
+Logistic Regression,train/algae/cls00_100.jpg,algae,stain
+Logistic Regression,train/algae/cls00_103.jpg,algae,stain
+Logistic Regression,train/algae/cls00_122.jpg,algae,algae
+Logistic Regression,train/algae/cls00_135.jpg,algae,algae
+Logistic Regression,train/algae/cls00_136.jpg,algae,algae
+Logistic Regression,train/algae/cls00_140.jpg,algae,algae
+Logistic Regression,train/algae/cls00_153.jpg,algae,algae
+Logistic Regression,train/algae/cls00_158.jpg,algae,algae
+Logistic Regression,train/algae/cls00_166.jpg,algae,algae
+Logistic Regression,train/algae/cls00_172.jpg,algae,algae
+Logistic Regression,train/algae/cls00_173.jpg,algae,peeling
+Logistic Regression,train/algae/cls00_191.jpg,algae,algae
+Logistic Regression,train/algae/cls00_203.jpg,algae,algae
+Logistic Regression,train/algae/cls00_207.jpg,algae,algae
+Logistic Regression,train/algae/cls00_208.jpg,algae,algae
+Logistic Regression,train/algae/cls00_218.jpg,algae,algae
+Logistic Regression,train/algae/cls00_219.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_226.jpg,algae,algae
+Logistic Regression,train/algae/cls00_235.jpg,algae,algae
+Logistic Regression,train/algae/cls00_238.jpg,algae,algae
+Logistic Regression,train/algae/cls00_242.jpg,algae,algae
+Logistic Regression,train/algae/cls00_245.jpg,algae,algae
+Logistic Regression,train/algae/cls00_253.jpg,algae,algae
+Logistic Regression,train/algae/cls00_275.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_285.jpg,algae,algae
+Logistic Regression,train/algae/cls00_287.jpg,algae,algae
+Logistic Regression,train/algae/cls00_290.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_297.jpg,algae,algae
+Logistic Regression,train/algae/cls00_308.jpg,algae,algae
+Logistic Regression,train/algae/cls00_315.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_316.jpg,algae,algae
+Logistic Regression,train/algae/cls00_317.jpg,algae,algae
+Logistic Regression,train/algae/cls00_339.jpg,algae,algae
+Logistic Regression,train/algae/cls00_349.jpg,algae,algae
+Logistic Regression,train/algae/cls00_353.jpg,algae,algae
+Logistic Regression,train/algae/cls00_360.jpg,algae,algae
+Logistic Regression,train/algae/cls00_368.jpg,algae,algae
+Logistic Regression,train/algae/cls00_378.jpg,algae,algae
+Logistic Regression,train/algae/cls00_380.jpg,algae,major_crack
+Logistic Regression,train/algae/cls00_386.jpg,algae,algae
+Logistic Regression,train/algae/cls00_389.jpg,algae,algae
+Logistic Regression,train/algae/cls00_391.jpg,algae,algae
+Logistic Regression,train/algae/cls00_399.jpg,algae,plain
+Logistic Regression,train/algae/cls00_403.jpg,algae,algae
+Logistic Regression,train/algae/cls00_412.jpg,algae,algae
+Logistic Regression,train/algae/cls00_415.jpg,algae,algae
+Logistic Regression,train/algae/cls00_437.jpg,algae,algae
+Logistic Regression,train/algae/cls00_452.jpg,algae,algae
+Logistic Regression,train/algae/cls00_456.jpg,algae,algae
+Logistic Regression,train/algae/cls00_459.jpg,algae,algae
+Logistic Regression,train/algae/cls00_460.jpg,algae,algae
+Logistic Regression,train/algae/cls00_465.jpg,algae,algae
+Logistic Regression,train/algae/cls00_473.jpg,algae,algae
+Logistic Regression,train/algae/cls00_476.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_478.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_483.jpg,algae,algae
+Logistic Regression,train/algae/cls00_486.jpg,algae,stain
+Logistic Regression,train/algae/cls00_490.jpg,algae,algae
+Logistic Regression,train/algae/cls00_494.jpg,algae,algae
+Logistic Regression,train/algae/cls00_495.jpg,algae,peeling
+Logistic Regression,train/algae/cls00_496.jpg,algae,algae
+Logistic Regression,train/algae/cls00_501.jpg,algae,algae
+Logistic Regression,train/algae/cls00_505.jpg,algae,algae
+Logistic Regression,train/algae/cls00_511.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_519.jpg,algae,algae
+Logistic Regression,train/algae/cls00_525.jpg,algae,algae
+Logistic Regression,train/algae/cls00_541.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_552.jpg,algae,peeling
+Logistic Regression,train/algae/cls00_563.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_565.jpg,algae,algae
+Logistic Regression,train/algae/cls00_567.jpg,algae,algae
+Logistic Regression,train/algae/cls00_569.jpg,algae,stain
+Logistic Regression,train/algae/cls00_573.jpg,algae,algae
+Logistic Regression,train/algae/cls00_582.jpg,algae,algae
+Logistic Regression,train/algae/cls00_588.jpg,algae,spalling
+Logistic Regression,train/algae/cls00_604.jpg,algae,algae
+Logistic Regression,train/algae/cls00_611.jpg,algae,plain
+Logistic Regression,train/major_crack/cls01_010.jpg,major_crack,spalling
+Logistic Regression,train/major_crack/cls01_024.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_035.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_040.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_049.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_060.jpg,major_crack,algae
+Logistic Regression,train/major_crack/cls01_067.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_071.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_074.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_077.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_080.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_082.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_085.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_092.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_105.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_107.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_114.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_119.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_121.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_124.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_135.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_136.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_140.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_147.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_148.jpg,major_crack,algae
+Logistic Regression,train/major_crack/cls01_180.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_193.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_199.jpg,major_crack,spalling
+Logistic Regression,train/major_crack/cls01_203.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_204.jpg,major_crack,spalling
+Logistic Regression,train/major_crack/cls01_207.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_219.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_231.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_235.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_251.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_255.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_261.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_262.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_264.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_270.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_275.jpg,major_crack,plain
+Logistic Regression,train/major_crack/cls01_296.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_310.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_313.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_318.jpg,major_crack,spalling
+Logistic Regression,train/major_crack/cls01_332.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_337.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_340.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_342.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_360.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_368.jpg,major_crack,spalling
+Logistic Regression,train/major_crack/cls01_381.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_390.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_392.jpg,major_crack,algae
+Logistic Regression,train/major_crack/cls01_400.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_403.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_409.jpg,major_crack,spalling
+Logistic Regression,train/major_crack/cls01_410.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_411.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_417.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_424.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_428.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_437.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_439.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_440.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_448.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_451.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_463.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_474.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_479.jpg,major_crack,stain
+Logistic Regression,train/major_crack/cls01_483.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_495.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_497.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_499.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_508.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_509.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_516.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_519.jpg,major_crack,peeling
+Logistic Regression,train/major_crack/cls01_527.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_535.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_536.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_542.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_548.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_551.jpg,major_crack,major_crack
+Logistic Regression,train/major_crack/cls01_564.jpg,major_crack,minor_crack
+Logistic Regression,train/major_crack/cls01_576.jpg,major_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_007.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_008.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_014.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_017.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_018.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_037.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_042.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_044.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_058.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_068.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_081.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_084.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_087.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_088.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_091.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_093.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_094.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_102.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_116.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_126.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_127.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_130.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_142.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_152.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_154.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_155.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_157.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_160.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_161.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_163.jpg,minor_crack,peeling
+Logistic Regression,train/minor_crack/cls02_171.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_173.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_174.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_177.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_184.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_191.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_192.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_198.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_201.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_204.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_205.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_228.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_242.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_245.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_267.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_280.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_300.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_307.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_316.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_317.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_331.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_335.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_351.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_367.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_368.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_386.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_389.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_391.jpg,minor_crack,peeling
+Logistic Regression,train/minor_crack/cls02_392.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_397.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_406.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_409.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_410.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_415.jpg,minor_crack,peeling
+Logistic Regression,train/minor_crack/cls02_423.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_425.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_430.jpg,minor_crack,peeling
+Logistic Regression,train/minor_crack/cls02_436.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_455.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_482.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_490.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_502.jpg,minor_crack,peeling
+Logistic Regression,train/minor_crack/cls02_520.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_527.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_537.jpg,minor_crack,peeling
+Logistic Regression,train/minor_crack/cls02_539.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_542.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_551.jpg,minor_crack,peeling
+Logistic Regression,train/minor_crack/cls02_559.jpg,minor_crack,plain
+Logistic Regression,train/minor_crack/cls02_581.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_592.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_597.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_605.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_606.jpg,minor_crack,stain
+Logistic Regression,train/minor_crack/cls02_612.jpg,minor_crack,minor_crack
+Logistic Regression,train/minor_crack/cls02_616.jpg,minor_crack,major_crack
+Logistic Regression,train/minor_crack/cls02_620.jpg,minor_crack,major_crack
+Logistic Regression,train/peeling/cls03_004.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_007.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_014.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_022.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_025.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_040.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_041.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_050.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_059.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_066.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_073.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_082.jpg,peeling,algae
+Logistic Regression,train/peeling/cls03_093.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_096.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_105.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_111.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_117.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_119.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_122.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_123.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_132.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_144.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_148.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_149.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_151.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_153.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_155.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_175.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_178.jpg,peeling,spalling
+Logistic Regression,train/peeling/cls03_179.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_189.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_195.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_206.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_209.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_215.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_222.jpg,peeling,major_crack
+Logistic Regression,train/peeling/cls03_223.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_225.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_230.jpg,peeling,major_crack
+Logistic Regression,train/peeling/cls03_242.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_244.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_248.jpg,peeling,major_crack
+Logistic Regression,train/peeling/cls03_252.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_253.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_270.jpg,peeling,major_crack
+Logistic Regression,train/peeling/cls03_285.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_292.jpg,peeling,algae
+Logistic Regression,train/peeling/cls03_300.jpg,peeling,spalling
+Logistic Regression,train/peeling/cls03_308.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_312.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_313.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_315.jpg,peeling,spalling
+Logistic Regression,train/peeling/cls03_321.jpg,peeling,major_crack
+Logistic Regression,train/peeling/cls03_338.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_356.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_359.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_367.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_373.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_391.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_393.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_394.jpg,peeling,major_crack
+Logistic Regression,train/peeling/cls03_400.jpg,peeling,algae
+Logistic Regression,train/peeling/cls03_410.jpg,peeling,major_crack
+Logistic Regression,train/peeling/cls03_412.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_421.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_422.jpg,peeling,minor_crack
+Logistic Regression,train/peeling/cls03_433.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_439.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_445.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_466.jpg,peeling,plain
+Logistic Regression,train/peeling/cls03_478.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_480.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_486.jpg,peeling,algae
+Logistic Regression,train/peeling/cls03_487.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_492.jpg,peeling,stain
+Logistic Regression,train/peeling/cls03_505.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_512.jpg,peeling,peeling
+Logistic Regression,train/peeling/cls03_514.jpg,peeling,spalling
+Logistic Regression,train/plain/cls04_005.jpg,plain,plain
+Logistic Regression,train/plain/cls04_007.jpg,plain,plain
+Logistic Regression,train/plain/cls04_014.jpg,plain,plain
+Logistic Regression,train/plain/cls04_020.jpg,plain,plain
+Logistic Regression,train/plain/cls04_025.jpg,plain,plain
+Logistic Regression,train/plain/cls04_043.jpg,plain,plain
+Logistic Regression,train/plain/cls04_055.jpg,plain,plain
+Logistic Regression,train/plain/cls04_060.jpg,plain,minor_crack
+Logistic Regression,train/plain/cls04_063.jpg,plain,plain
+Logistic Regression,train/plain/cls04_067.jpg,plain,minor_crack
+Logistic Regression,train/plain/cls04_073.jpg,plain,plain
+Logistic Regression,train/plain/cls04_079.jpg,plain,plain
+Logistic Regression,train/plain/cls04_080.jpg,plain,plain
+Logistic Regression,train/plain/cls04_086.jpg,plain,stain
+Logistic Regression,train/plain/cls04_092.jpg,plain,minor_crack
+Logistic Regression,train/plain/cls04_096.jpg,plain,plain
+Logistic Regression,train/plain/cls04_097.jpg,plain,plain
+Logistic Regression,train/plain/cls04_101.jpg,plain,plain
+Logistic Regression,train/plain/cls04_110.jpg,plain,plain
+Logistic Regression,train/plain/cls04_116.jpg,plain,plain
+Logistic Regression,train/plain/cls04_117.jpg,plain,plain
+Logistic Regression,train/plain/cls04_124.jpg,plain,plain
+Logistic Regression,train/plain/cls04_130.jpg,plain,plain
+Logistic Regression,train/plain/cls04_141.jpg,plain,plain
+Logistic Regression,train/plain/cls04_146.jpg,plain,plain
+Logistic Regression,train/plain/cls04_149.jpg,plain,peeling
+Logistic Regression,train/plain/cls04_151.jpg,plain,plain
+Logistic Regression,train/plain/cls04_158.jpg,plain,plain
+Logistic Regression,train/plain/cls04_160.jpg,plain,plain
+Logistic Regression,train/plain/cls04_161.jpg,plain,plain
+Logistic Regression,train/plain/cls04_164.jpg,plain,plain
+Logistic Regression,train/plain/cls04_178.jpg,plain,plain
+Logistic Regression,train/plain/cls04_196.jpg,plain,plain
+Logistic Regression,train/plain/cls04_206.jpg,plain,plain
+Logistic Regression,train/plain/cls04_208.jpg,plain,plain
+Logistic Regression,train/plain/cls04_229.jpg,plain,plain
+Logistic Regression,train/plain/cls04_231.jpg,plain,plain
+Logistic Regression,train/plain/cls04_248.jpg,plain,plain
+Logistic Regression,train/plain/cls04_252.jpg,plain,plain
+Logistic Regression,train/plain/cls04_254.jpg,plain,plain
+Logistic Regression,train/plain/cls04_263.jpg,plain,plain
+Logistic Regression,train/plain/cls04_266.jpg,plain,plain
+Logistic Regression,train/plain/cls04_274.jpg,plain,minor_crack
+Logistic Regression,train/plain/cls04_280.jpg,plain,plain
+Logistic Regression,train/plain/cls04_288.jpg,plain,plain
+Logistic Regression,train/plain/cls04_310.jpg,plain,plain
+Logistic Regression,train/plain/cls04_316.jpg,plain,plain
+Logistic Regression,train/plain/cls04_331.jpg,plain,plain
+Logistic Regression,train/plain/cls04_338.jpg,plain,plain
+Logistic Regression,train/plain/cls04_351.jpg,plain,plain
+Logistic Regression,train/plain/cls04_361.jpg,plain,plain
+Logistic Regression,train/plain/cls04_383.jpg,plain,stain
+Logistic Regression,train/plain/cls04_384.jpg,plain,minor_crack
+Logistic Regression,train/plain/cls04_394.jpg,plain,plain
+Logistic Regression,train/plain/cls04_395.jpg,plain,plain
+Logistic Regression,train/plain/cls04_401.jpg,plain,plain
+Logistic Regression,train/plain/cls04_408.jpg,plain,stain
+Logistic Regression,train/plain/cls04_409.jpg,plain,plain
+Logistic Regression,train/plain/cls04_418.jpg,plain,plain
+Logistic Regression,train/plain/cls04_421.jpg,plain,plain
+Logistic Regression,train/plain/cls04_432.jpg,plain,plain
+Logistic Regression,train/plain/cls04_447.jpg,plain,plain
+Logistic Regression,train/plain/cls04_455.jpg,plain,minor_crack
+Logistic Regression,train/plain/cls04_460.jpg,plain,plain
+Logistic Regression,train/plain/cls04_463.jpg,plain,plain
+Logistic Regression,train/plain/cls04_466.jpg,plain,plain
+Logistic Regression,train/plain/cls04_470.jpg,plain,plain
+Logistic Regression,train/plain/cls04_471.jpg,plain,plain
+Logistic Regression,train/plain/cls04_481.jpg,plain,plain
+Logistic Regression,train/plain/cls04_486.jpg,plain,plain
+Logistic Regression,train/plain/cls04_489.jpg,plain,major_crack
+Logistic Regression,train/plain/cls04_505.jpg,plain,plain
+Logistic Regression,train/plain/cls04_510.jpg,plain,plain
+Logistic Regression,train/plain/cls04_513.jpg,plain,plain
+Logistic Regression,train/plain/cls04_516.jpg,plain,plain
+Logistic Regression,train/plain/cls04_519.jpg,plain,plain
+Logistic Regression,train/plain/cls04_521.jpg,plain,plain
+Logistic Regression,train/plain/cls04_531.jpg,plain,plain
+Logistic Regression,train/plain/cls04_532.jpg,plain,plain
+Logistic Regression,train/plain/cls04_533.jpg,plain,plain
+Logistic Regression,train/plain/cls04_535.jpg,plain,plain
+Logistic Regression,train/plain/cls04_545.jpg,plain,algae
+Logistic Regression,train/plain/cls04_551.jpg,plain,plain
+Logistic Regression,train/plain/cls04_554.jpg,plain,plain
+Logistic Regression,train/plain/cls04_562.jpg,plain,plain
+Logistic Regression,train/plain/cls04_570.jpg,plain,plain
+Logistic Regression,train/plain/cls04_580.jpg,plain,plain
+Logistic Regression,train/plain/cls04_593.jpg,plain,plain
+Logistic Regression,train/plain/cls04_600.jpg,plain,plain
+Logistic Regression,train/spalling/cls05_008.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_012.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_016.jpg,spalling,peeling
+Logistic Regression,train/spalling/cls05_020.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_021.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_025.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_026.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_042.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_047.jpg,spalling,stain
+Logistic Regression,train/spalling/cls05_049.jpg,spalling,stain
+Logistic Regression,train/spalling/cls05_055.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_057.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_058.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_063.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_079.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_085.jpg,spalling,peeling
+Logistic Regression,train/spalling/cls05_086.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_089.jpg,spalling,stain
+Logistic Regression,train/spalling/cls05_097.jpg,spalling,stain
+Logistic Regression,train/spalling/cls05_099.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_101.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_109.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_116.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_129.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_131.jpg,spalling,stain
+Logistic Regression,train/spalling/cls05_133.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_143.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_144.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_154.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_158.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_164.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_168.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_176.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_189.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_192.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_197.jpg,spalling,minor_crack
+Logistic Regression,train/spalling/cls05_210.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_232.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_238.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_243.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_246.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_247.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_248.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_254.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_268.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_275.jpg,spalling,major_crack
+Logistic Regression,train/spalling/cls05_279.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_281.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_283.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_284.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_294.jpg,spalling,stain
+Logistic Regression,train/spalling/cls05_307.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_330.jpg,spalling,peeling
+Logistic Regression,train/spalling/cls05_344.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_353.jpg,spalling,major_crack
+Logistic Regression,train/spalling/cls05_366.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_369.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_381.jpg,spalling,major_crack
+Logistic Regression,train/spalling/cls05_385.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_398.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_399.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_400.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_409.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_411.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_427.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_429.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_435.jpg,spalling,peeling
+Logistic Regression,train/spalling/cls05_444.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_446.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_448.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_464.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_468.jpg,spalling,spalling
+Logistic Regression,train/spalling/cls05_470.jpg,spalling,algae
+Logistic Regression,train/spalling/cls05_485.jpg,spalling,peeling
+Logistic Regression,train/spalling/cls05_499.jpg,spalling,peeling
+Logistic Regression,train/stain/cls06_005.jpg,stain,plain
+Logistic Regression,train/stain/cls06_017.jpg,stain,peeling
+Logistic Regression,train/stain/cls06_030.jpg,stain,stain
+Logistic Regression,train/stain/cls06_031.jpg,stain,stain
+Logistic Regression,train/stain/cls06_045.jpg,stain,spalling
+Logistic Regression,train/stain/cls06_046.jpg,stain,stain
+Logistic Regression,train/stain/cls06_051.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_059.jpg,stain,stain
+Logistic Regression,train/stain/cls06_064.jpg,stain,algae
+Logistic Regression,train/stain/cls06_075.jpg,stain,stain
+Logistic Regression,train/stain/cls06_077.jpg,stain,peeling
+Logistic Regression,train/stain/cls06_082.jpg,stain,peeling
+Logistic Regression,train/stain/cls06_091.jpg,stain,stain
+Logistic Regression,train/stain/cls06_102.jpg,stain,stain
+Logistic Regression,train/stain/cls06_104.jpg,stain,stain
+Logistic Regression,train/stain/cls06_108.jpg,stain,stain
+Logistic Regression,train/stain/cls06_109.jpg,stain,peeling
+Logistic Regression,train/stain/cls06_111.jpg,stain,stain
+Logistic Regression,train/stain/cls06_113.jpg,stain,major_crack
+Logistic Regression,train/stain/cls06_117.jpg,stain,spalling
+Logistic Regression,train/stain/cls06_124.jpg,stain,major_crack
+Logistic Regression,train/stain/cls06_139.jpg,stain,stain
+Logistic Regression,train/stain/cls06_147.jpg,stain,stain
+Logistic Regression,train/stain/cls06_149.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_152.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_162.jpg,stain,spalling
+Logistic Regression,train/stain/cls06_164.jpg,stain,spalling
+Logistic Regression,train/stain/cls06_170.jpg,stain,algae
+Logistic Regression,train/stain/cls06_173.jpg,stain,stain
+Logistic Regression,train/stain/cls06_179.jpg,stain,stain
+Logistic Regression,train/stain/cls06_183.jpg,stain,stain
+Logistic Regression,train/stain/cls06_196.jpg,stain,stain
+Logistic Regression,train/stain/cls06_201.jpg,stain,stain
+Logistic Regression,train/stain/cls06_204.jpg,stain,major_crack
+Logistic Regression,train/stain/cls06_214.jpg,stain,plain
+Logistic Regression,train/stain/cls06_216.jpg,stain,algae
+Logistic Regression,train/stain/cls06_236.jpg,stain,stain
+Logistic Regression,train/stain/cls06_242.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_250.jpg,stain,stain
+Logistic Regression,train/stain/cls06_252.jpg,stain,plain
+Logistic Regression,train/stain/cls06_260.jpg,stain,stain
+Logistic Regression,train/stain/cls06_267.jpg,stain,major_crack
+Logistic Regression,train/stain/cls06_278.jpg,stain,stain
+Logistic Regression,train/stain/cls06_285.jpg,stain,plain
+Logistic Regression,train/stain/cls06_305.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_309.jpg,stain,stain
+Logistic Regression,train/stain/cls06_325.jpg,stain,stain
+Logistic Regression,train/stain/cls06_339.jpg,stain,algae
+Logistic Regression,train/stain/cls06_345.jpg,stain,peeling
+Logistic Regression,train/stain/cls06_353.jpg,stain,stain
+Logistic Regression,train/stain/cls06_377.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_380.jpg,stain,stain
+Logistic Regression,train/stain/cls06_390.jpg,stain,stain
+Logistic Regression,train/stain/cls06_398.jpg,stain,stain
+Logistic Regression,train/stain/cls06_400.jpg,stain,peeling
+Logistic Regression,train/stain/cls06_402.jpg,stain,stain
+Logistic Regression,train/stain/cls06_409.jpg,stain,major_crack
+Logistic Regression,train/stain/cls06_418.jpg,stain,stain
+Logistic Regression,train/stain/cls06_422.jpg,stain,stain
+Logistic Regression,train/stain/cls06_429.jpg,stain,stain
+Logistic Regression,train/stain/cls06_431.jpg,stain,stain
+Logistic Regression,train/stain/cls06_433.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_436.jpg,stain,stain
+Logistic Regression,train/stain/cls06_437.jpg,stain,algae
+Logistic Regression,train/stain/cls06_438.jpg,stain,stain
+Logistic Regression,train/stain/cls06_444.jpg,stain,stain
+Logistic Regression,train/stain/cls06_450.jpg,stain,spalling
+Logistic Regression,train/stain/cls06_451.jpg,stain,stain
+Logistic Regression,train/stain/cls06_460.jpg,stain,stain
+Logistic Regression,train/stain/cls06_467.jpg,stain,stain
+Logistic Regression,train/stain/cls06_485.jpg,stain,peeling
+Logistic Regression,train/stain/cls06_489.jpg,stain,minor_crack
+Logistic Regression,train/stain/cls06_491.jpg,stain,stain
+Logistic Regression,train/stain/cls06_495.jpg,stain,stain
+Logistic Regression,train/stain/cls06_502.jpg,stain,stain
+Logistic Regression,train/stain/cls06_507.jpg,stain,stain
+Logistic Regression,train/stain/cls06_521.jpg,stain,major_crack
+Decision Tree,train/algae/cls00_028.jpg,algae,plain
+Decision Tree,train/algae/cls00_029.jpg,algae,major_crack
+Decision Tree,train/algae/cls00_036.jpg,algae,algae
+Decision Tree,train/algae/cls00_041.jpg,algae,spalling
+Decision Tree,train/algae/cls00_042.jpg,algae,spalling
+Decision Tree,train/algae/cls00_044.jpg,algae,algae
+Decision Tree,train/algae/cls00_045.jpg,algae,algae
+Decision Tree,train/algae/cls00_053.jpg,algae,algae
+Decision Tree,train/algae/cls00_062.jpg,algae,algae
+Decision Tree,train/algae/cls00_065.jpg,algae,algae
+Decision Tree,train/algae/cls00_066.jpg,algae,algae
+Decision Tree,train/algae/cls00_072.jpg,algae,minor_crack
+Decision Tree,train/algae/cls00_086.jpg,algae,algae
+Decision Tree,train/algae/cls00_088.jpg,algae,algae
+Decision Tree,train/algae/cls00_096.jpg,algae,minor_crack
+Decision Tree,train/algae/cls00_100.jpg,algae,algae
+Decision Tree,train/algae/cls00_103.jpg,algae,minor_crack
+Decision Tree,train/algae/cls00_122.jpg,algae,algae
+Decision Tree,train/algae/cls00_135.jpg,algae,algae
+Decision Tree,train/algae/cls00_136.jpg,algae,algae
+Decision Tree,train/algae/cls00_140.jpg,algae,algae
+Decision Tree,train/algae/cls00_153.jpg,algae,spalling
+Decision Tree,train/algae/cls00_158.jpg,algae,algae
+Decision Tree,train/algae/cls00_166.jpg,algae,algae
+Decision Tree,train/algae/cls00_172.jpg,algae,algae
+Decision Tree,train/algae/cls00_173.jpg,algae,spalling
+Decision Tree,train/algae/cls00_191.jpg,algae,algae
+Decision Tree,train/algae/cls00_203.jpg,algae,algae
+Decision Tree,train/algae/cls00_207.jpg,algae,algae
+Decision Tree,train/algae/cls00_208.jpg,algae,algae
+Decision Tree,train/algae/cls00_218.jpg,algae,algae
+Decision Tree,train/algae/cls00_219.jpg,algae,algae
+Decision Tree,train/algae/cls00_226.jpg,algae,algae
+Decision Tree,train/algae/cls00_235.jpg,algae,algae
+Decision Tree,train/algae/cls00_238.jpg,algae,algae
+Decision Tree,train/algae/cls00_242.jpg,algae,algae
+Decision Tree,train/algae/cls00_245.jpg,algae,algae
+Decision Tree,train/algae/cls00_253.jpg,algae,peeling
+Decision Tree,train/algae/cls00_275.jpg,algae,algae
+Decision Tree,train/algae/cls00_285.jpg,algae,algae
+Decision Tree,train/algae/cls00_287.jpg,algae,stain
+Decision Tree,train/algae/cls00_290.jpg,algae,algae
+Decision Tree,train/algae/cls00_297.jpg,algae,algae
+Decision Tree,train/algae/cls00_308.jpg,algae,spalling
+Decision Tree,train/algae/cls00_315.jpg,algae,peeling
+Decision Tree,train/algae/cls00_316.jpg,algae,algae
+Decision Tree,train/algae/cls00_317.jpg,algae,algae
+Decision Tree,train/algae/cls00_339.jpg,algae,major_crack
+Decision Tree,train/algae/cls00_349.jpg,algae,algae
+Decision Tree,train/algae/cls00_353.jpg,algae,algae
+Decision Tree,train/algae/cls00_360.jpg,algae,algae
+Decision Tree,train/algae/cls00_368.jpg,algae,algae
+Decision Tree,train/algae/cls00_378.jpg,algae,algae
+Decision Tree,train/algae/cls00_380.jpg,algae,plain
+Decision Tree,train/algae/cls00_386.jpg,algae,algae
+Decision Tree,train/algae/cls00_389.jpg,algae,algae
+Decision Tree,train/algae/cls00_391.jpg,algae,algae
+Decision Tree,train/algae/cls00_399.jpg,algae,algae
+Decision Tree,train/algae/cls00_403.jpg,algae,algae
+Decision Tree,train/algae/cls00_412.jpg,algae,algae
+Decision Tree,train/algae/cls00_415.jpg,algae,algae
+Decision Tree,train/algae/cls00_437.jpg,algae,algae
+Decision Tree,train/algae/cls00_452.jpg,algae,algae
+Decision Tree,train/algae/cls00_456.jpg,algae,major_crack
+Decision Tree,train/algae/cls00_459.jpg,algae,algae
+Decision Tree,train/algae/cls00_460.jpg,algae,algae
+Decision Tree,train/algae/cls00_465.jpg,algae,spalling
+Decision Tree,train/algae/cls00_473.jpg,algae,algae
+Decision Tree,train/algae/cls00_476.jpg,algae,algae
+Decision Tree,train/algae/cls00_478.jpg,algae,algae
+Decision Tree,train/algae/cls00_483.jpg,algae,spalling
+Decision Tree,train/algae/cls00_486.jpg,algae,stain
+Decision Tree,train/algae/cls00_490.jpg,algae,algae
+Decision Tree,train/algae/cls00_494.jpg,algae,algae
+Decision Tree,train/algae/cls00_495.jpg,algae,algae
+Decision Tree,train/algae/cls00_496.jpg,algae,algae
+Decision Tree,train/algae/cls00_501.jpg,algae,algae
+Decision Tree,train/algae/cls00_505.jpg,algae,major_crack
+Decision Tree,train/algae/cls00_511.jpg,algae,spalling
+Decision Tree,train/algae/cls00_519.jpg,algae,algae
+Decision Tree,train/algae/cls00_525.jpg,algae,algae
+Decision Tree,train/algae/cls00_541.jpg,algae,algae
+Decision Tree,train/algae/cls00_552.jpg,algae,minor_crack
+Decision Tree,train/algae/cls00_563.jpg,algae,spalling
+Decision Tree,train/algae/cls00_565.jpg,algae,algae
+Decision Tree,train/algae/cls00_567.jpg,algae,peeling
+Decision Tree,train/algae/cls00_569.jpg,algae,peeling
+Decision Tree,train/algae/cls00_573.jpg,algae,major_crack
+Decision Tree,train/algae/cls00_582.jpg,algae,algae
+Decision Tree,train/algae/cls00_588.jpg,algae,stain
+Decision Tree,train/algae/cls00_604.jpg,algae,algae
+Decision Tree,train/algae/cls00_611.jpg,algae,algae
+Decision Tree,train/major_crack/cls01_010.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_024.jpg,major_crack,algae
+Decision Tree,train/major_crack/cls01_035.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_040.jpg,major_crack,spalling
+Decision Tree,train/major_crack/cls01_049.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_060.jpg,major_crack,algae
+Decision Tree,train/major_crack/cls01_067.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_071.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_074.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_077.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_080.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_082.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_085.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_092.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_105.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_107.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_114.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_119.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_121.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_124.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_135.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_136.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_140.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_147.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_148.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_180.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_193.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_199.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_203.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_204.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_207.jpg,major_crack,algae
+Decision Tree,train/major_crack/cls01_219.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_231.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_235.jpg,major_crack,plain
+Decision Tree,train/major_crack/cls01_251.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_255.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_261.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_262.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_264.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_270.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_275.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_296.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_310.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_313.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_318.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_332.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_337.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_340.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_342.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_360.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_368.jpg,major_crack,plain
+Decision Tree,train/major_crack/cls01_381.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_390.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_392.jpg,major_crack,algae
+Decision Tree,train/major_crack/cls01_400.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_403.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_409.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_410.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_411.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_417.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_424.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_428.jpg,major_crack,algae
+Decision Tree,train/major_crack/cls01_437.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_439.jpg,major_crack,spalling
+Decision Tree,train/major_crack/cls01_440.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_448.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_451.jpg,major_crack,spalling
+Decision Tree,train/major_crack/cls01_463.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_474.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_479.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_483.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_495.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_497.jpg,major_crack,minor_crack
+Decision Tree,train/major_crack/cls01_499.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_508.jpg,major_crack,algae
+Decision Tree,train/major_crack/cls01_509.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_516.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_519.jpg,major_crack,peeling
+Decision Tree,train/major_crack/cls01_527.jpg,major_crack,plain
+Decision Tree,train/major_crack/cls01_535.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_536.jpg,major_crack,stain
+Decision Tree,train/major_crack/cls01_542.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_548.jpg,major_crack,plain
+Decision Tree,train/major_crack/cls01_551.jpg,major_crack,spalling
+Decision Tree,train/major_crack/cls01_564.jpg,major_crack,major_crack
+Decision Tree,train/major_crack/cls01_576.jpg,major_crack,major_crack
+Decision Tree,train/minor_crack/cls02_007.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_008.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_014.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_017.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_018.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_037.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_042.jpg,minor_crack,algae
+Decision Tree,train/minor_crack/cls02_044.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_058.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_068.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_081.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_084.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_087.jpg,minor_crack,algae
+Decision Tree,train/minor_crack/cls02_088.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_091.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_093.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_094.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_102.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_116.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_126.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_127.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_130.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_142.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_152.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_154.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_155.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_157.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_160.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_161.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_163.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_171.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_173.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_174.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_177.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_184.jpg,minor_crack,spalling
+Decision Tree,train/minor_crack/cls02_191.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_192.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_198.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_201.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_204.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_205.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_228.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_242.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_245.jpg,minor_crack,peeling
+Decision Tree,train/minor_crack/cls02_267.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_280.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_300.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_307.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_316.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_317.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_331.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_335.jpg,minor_crack,spalling
+Decision Tree,train/minor_crack/cls02_351.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_367.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_368.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_386.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_389.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_391.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_392.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_397.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_406.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_409.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_410.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_415.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_423.jpg,minor_crack,peeling
+Decision Tree,train/minor_crack/cls02_425.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_430.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_436.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_455.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_482.jpg,minor_crack,peeling
+Decision Tree,train/minor_crack/cls02_490.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_502.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_520.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_527.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_537.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_539.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_542.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_551.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_559.jpg,minor_crack,plain
+Decision Tree,train/minor_crack/cls02_581.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_592.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_597.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_605.jpg,minor_crack,major_crack
+Decision Tree,train/minor_crack/cls02_606.jpg,minor_crack,peeling
+Decision Tree,train/minor_crack/cls02_612.jpg,minor_crack,minor_crack
+Decision Tree,train/minor_crack/cls02_616.jpg,minor_crack,stain
+Decision Tree,train/minor_crack/cls02_620.jpg,minor_crack,peeling
+Decision Tree,train/peeling/cls03_004.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_007.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_014.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_022.jpg,peeling,algae
+Decision Tree,train/peeling/cls03_025.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_040.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_041.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_050.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_059.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_066.jpg,peeling,minor_crack
+Decision Tree,train/peeling/cls03_073.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_082.jpg,peeling,major_crack
+Decision Tree,train/peeling/cls03_093.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_096.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_105.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_111.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_117.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_119.jpg,peeling,spalling
+Decision Tree,train/peeling/cls03_122.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_123.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_132.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_144.jpg,peeling,minor_crack
+Decision Tree,train/peeling/cls03_148.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_149.jpg,peeling,spalling
+Decision Tree,train/peeling/cls03_151.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_153.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_155.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_175.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_178.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_179.jpg,peeling,spalling
+Decision Tree,train/peeling/cls03_189.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_195.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_206.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_209.jpg,peeling,plain
+Decision Tree,train/peeling/cls03_215.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_222.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_223.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_225.jpg,peeling,plain
+Decision Tree,train/peeling/cls03_230.jpg,peeling,minor_crack
+Decision Tree,train/peeling/cls03_242.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_244.jpg,peeling,minor_crack
+Decision Tree,train/peeling/cls03_248.jpg,peeling,major_crack
+Decision Tree,train/peeling/cls03_252.jpg,peeling,spalling
+Decision Tree,train/peeling/cls03_253.jpg,peeling,minor_crack
+Decision Tree,train/peeling/cls03_270.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_285.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_292.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_300.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_308.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_312.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_313.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_315.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_321.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_338.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_356.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_359.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_367.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_373.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_391.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_393.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_394.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_400.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_410.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_412.jpg,peeling,major_crack
+Decision Tree,train/peeling/cls03_421.jpg,peeling,minor_crack
+Decision Tree,train/peeling/cls03_422.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_433.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_439.jpg,peeling,minor_crack
+Decision Tree,train/peeling/cls03_445.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_466.jpg,peeling,plain
+Decision Tree,train/peeling/cls03_478.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_480.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_486.jpg,peeling,major_crack
+Decision Tree,train/peeling/cls03_487.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_492.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_505.jpg,peeling,peeling
+Decision Tree,train/peeling/cls03_512.jpg,peeling,stain
+Decision Tree,train/peeling/cls03_514.jpg,peeling,peeling
+Decision Tree,train/plain/cls04_005.jpg,plain,peeling
+Decision Tree,train/plain/cls04_007.jpg,plain,plain
+Decision Tree,train/plain/cls04_014.jpg,plain,peeling
+Decision Tree,train/plain/cls04_020.jpg,plain,plain
+Decision Tree,train/plain/cls04_025.jpg,plain,plain
+Decision Tree,train/plain/cls04_043.jpg,plain,plain
+Decision Tree,train/plain/cls04_055.jpg,plain,plain
+Decision Tree,train/plain/cls04_060.jpg,plain,stain
+Decision Tree,train/plain/cls04_063.jpg,plain,plain
+Decision Tree,train/plain/cls04_067.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_073.jpg,plain,plain
+Decision Tree,train/plain/cls04_079.jpg,plain,plain
+Decision Tree,train/plain/cls04_080.jpg,plain,plain
+Decision Tree,train/plain/cls04_086.jpg,plain,peeling
+Decision Tree,train/plain/cls04_092.jpg,plain,plain
+Decision Tree,train/plain/cls04_096.jpg,plain,plain
+Decision Tree,train/plain/cls04_097.jpg,plain,plain
+Decision Tree,train/plain/cls04_101.jpg,plain,plain
+Decision Tree,train/plain/cls04_110.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_116.jpg,plain,plain
+Decision Tree,train/plain/cls04_117.jpg,plain,plain
+Decision Tree,train/plain/cls04_124.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_130.jpg,plain,plain
+Decision Tree,train/plain/cls04_141.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_146.jpg,plain,plain
+Decision Tree,train/plain/cls04_149.jpg,plain,peeling
+Decision Tree,train/plain/cls04_151.jpg,plain,plain
+Decision Tree,train/plain/cls04_158.jpg,plain,plain
+Decision Tree,train/plain/cls04_160.jpg,plain,plain
+Decision Tree,train/plain/cls04_161.jpg,plain,plain
+Decision Tree,train/plain/cls04_164.jpg,plain,plain
+Decision Tree,train/plain/cls04_178.jpg,plain,plain
+Decision Tree,train/plain/cls04_196.jpg,plain,plain
+Decision Tree,train/plain/cls04_206.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_208.jpg,plain,plain
+Decision Tree,train/plain/cls04_229.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_231.jpg,plain,peeling
+Decision Tree,train/plain/cls04_248.jpg,plain,plain
+Decision Tree,train/plain/cls04_252.jpg,plain,plain
+Decision Tree,train/plain/cls04_254.jpg,plain,plain
+Decision Tree,train/plain/cls04_263.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_266.jpg,plain,plain
+Decision Tree,train/plain/cls04_274.jpg,plain,plain
+Decision Tree,train/plain/cls04_280.jpg,plain,spalling
+Decision Tree,train/plain/cls04_288.jpg,plain,plain
+Decision Tree,train/plain/cls04_310.jpg,plain,plain
+Decision Tree,train/plain/cls04_316.jpg,plain,plain
+Decision Tree,train/plain/cls04_331.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_338.jpg,plain,peeling
+Decision Tree,train/plain/cls04_351.jpg,plain,plain
+Decision Tree,train/plain/cls04_361.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_383.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_384.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_394.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_395.jpg,plain,peeling
+Decision Tree,train/plain/cls04_401.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_408.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_409.jpg,plain,plain
+Decision Tree,train/plain/cls04_418.jpg,plain,plain
+Decision Tree,train/plain/cls04_421.jpg,plain,plain
+Decision Tree,train/plain/cls04_432.jpg,plain,plain
+Decision Tree,train/plain/cls04_447.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_455.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_460.jpg,plain,major_crack
+Decision Tree,train/plain/cls04_463.jpg,plain,plain
+Decision Tree,train/plain/cls04_466.jpg,plain,spalling
+Decision Tree,train/plain/cls04_470.jpg,plain,stain
+Decision Tree,train/plain/cls04_471.jpg,plain,plain
+Decision Tree,train/plain/cls04_481.jpg,plain,minor_crack
+Decision Tree,train/plain/cls04_486.jpg,plain,plain
+Decision Tree,train/plain/cls04_489.jpg,plain,plain
+Decision Tree,train/plain/cls04_505.jpg,plain,plain
+Decision Tree,train/plain/cls04_510.jpg,plain,plain
+Decision Tree,train/plain/cls04_513.jpg,plain,peeling
+Decision Tree,train/plain/cls04_516.jpg,plain,plain
+Decision Tree,train/plain/cls04_519.jpg,plain,plain
+Decision Tree,train/plain/cls04_521.jpg,plain,plain
+Decision Tree,train/plain/cls04_531.jpg,plain,plain
+Decision Tree,train/plain/cls04_532.jpg,plain,plain
+Decision Tree,train/plain/cls04_533.jpg,plain,plain
+Decision Tree,train/plain/cls04_535.jpg,plain,plain
+Decision Tree,train/plain/cls04_545.jpg,plain,plain
+Decision Tree,train/plain/cls04_551.jpg,plain,plain
+Decision Tree,train/plain/cls04_554.jpg,plain,plain
+Decision Tree,train/plain/cls04_562.jpg,plain,plain
+Decision Tree,train/plain/cls04_570.jpg,plain,plain
+Decision Tree,train/plain/cls04_580.jpg,plain,plain
+Decision Tree,train/plain/cls04_593.jpg,plain,plain
+Decision Tree,train/plain/cls04_600.jpg,plain,plain
+Decision Tree,train/spalling/cls05_008.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_012.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_016.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_020.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_021.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_025.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_026.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_042.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_047.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_049.jpg,spalling,peeling
+Decision Tree,train/spalling/cls05_055.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_057.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_058.jpg,spalling,plain
+Decision Tree,train/spalling/cls05_063.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_079.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_085.jpg,spalling,stain
+Decision Tree,train/spalling/cls05_086.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_089.jpg,spalling,stain
+Decision Tree,train/spalling/cls05_097.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_099.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_101.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_109.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_116.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_129.jpg,spalling,peeling
+Decision Tree,train/spalling/cls05_131.jpg,spalling,stain
+Decision Tree,train/spalling/cls05_133.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_143.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_144.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_154.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_158.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_164.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_168.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_176.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_189.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_192.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_197.jpg,spalling,peeling
+Decision Tree,train/spalling/cls05_210.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_232.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_238.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_243.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_246.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_247.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_248.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_254.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_268.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_275.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_279.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_281.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_283.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_284.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_294.jpg,spalling,minor_crack
+Decision Tree,train/spalling/cls05_307.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_330.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_344.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_353.jpg,spalling,stain
+Decision Tree,train/spalling/cls05_366.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_369.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_381.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_385.jpg,spalling,major_crack
+Decision Tree,train/spalling/cls05_398.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_399.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_400.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_409.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_411.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_427.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_429.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_435.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_444.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_446.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_448.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_464.jpg,spalling,minor_crack
+Decision Tree,train/spalling/cls05_468.jpg,spalling,minor_crack
+Decision Tree,train/spalling/cls05_470.jpg,spalling,algae
+Decision Tree,train/spalling/cls05_485.jpg,spalling,spalling
+Decision Tree,train/spalling/cls05_499.jpg,spalling,major_crack
+Decision Tree,train/stain/cls06_005.jpg,stain,stain
+Decision Tree,train/stain/cls06_017.jpg,stain,stain
+Decision Tree,train/stain/cls06_030.jpg,stain,peeling
+Decision Tree,train/stain/cls06_031.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_045.jpg,stain,algae
+Decision Tree,train/stain/cls06_046.jpg,stain,stain
+Decision Tree,train/stain/cls06_051.jpg,stain,stain
+Decision Tree,train/stain/cls06_059.jpg,stain,stain
+Decision Tree,train/stain/cls06_064.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_075.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_077.jpg,stain,peeling
+Decision Tree,train/stain/cls06_082.jpg,stain,plain
+Decision Tree,train/stain/cls06_091.jpg,stain,stain
+Decision Tree,train/stain/cls06_102.jpg,stain,stain
+Decision Tree,train/stain/cls06_104.jpg,stain,peeling
+Decision Tree,train/stain/cls06_108.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_109.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_111.jpg,stain,stain
+Decision Tree,train/stain/cls06_113.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_117.jpg,stain,stain
+Decision Tree,train/stain/cls06_124.jpg,stain,stain
+Decision Tree,train/stain/cls06_139.jpg,stain,stain
+Decision Tree,train/stain/cls06_147.jpg,stain,stain
+Decision Tree,train/stain/cls06_149.jpg,stain,stain
+Decision Tree,train/stain/cls06_152.jpg,stain,stain
+Decision Tree,train/stain/cls06_162.jpg,stain,stain
+Decision Tree,train/stain/cls06_164.jpg,stain,spalling
+Decision Tree,train/stain/cls06_170.jpg,stain,algae
+Decision Tree,train/stain/cls06_173.jpg,stain,stain
+Decision Tree,train/stain/cls06_179.jpg,stain,spalling
+Decision Tree,train/stain/cls06_183.jpg,stain,stain
+Decision Tree,train/stain/cls06_196.jpg,stain,stain
+Decision Tree,train/stain/cls06_201.jpg,stain,stain
+Decision Tree,train/stain/cls06_204.jpg,stain,spalling
+Decision Tree,train/stain/cls06_214.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_216.jpg,stain,stain
+Decision Tree,train/stain/cls06_236.jpg,stain,algae
+Decision Tree,train/stain/cls06_242.jpg,stain,stain
+Decision Tree,train/stain/cls06_250.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_252.jpg,stain,peeling
+Decision Tree,train/stain/cls06_260.jpg,stain,stain
+Decision Tree,train/stain/cls06_267.jpg,stain,stain
+Decision Tree,train/stain/cls06_278.jpg,stain,stain
+Decision Tree,train/stain/cls06_285.jpg,stain,stain
+Decision Tree,train/stain/cls06_305.jpg,stain,plain
+Decision Tree,train/stain/cls06_309.jpg,stain,spalling
+Decision Tree,train/stain/cls06_325.jpg,stain,stain
+Decision Tree,train/stain/cls06_339.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_345.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_353.jpg,stain,stain
+Decision Tree,train/stain/cls06_377.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_380.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_390.jpg,stain,plain
+Decision Tree,train/stain/cls06_398.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_400.jpg,stain,spalling
+Decision Tree,train/stain/cls06_402.jpg,stain,peeling
+Decision Tree,train/stain/cls06_409.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_418.jpg,stain,stain
+Decision Tree,train/stain/cls06_422.jpg,stain,algae
+Decision Tree,train/stain/cls06_429.jpg,stain,algae
+Decision Tree,train/stain/cls06_431.jpg,stain,stain
+Decision Tree,train/stain/cls06_433.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_436.jpg,stain,major_crack
+Decision Tree,train/stain/cls06_437.jpg,stain,algae
+Decision Tree,train/stain/cls06_438.jpg,stain,spalling
+Decision Tree,train/stain/cls06_444.jpg,stain,stain
+Decision Tree,train/stain/cls06_450.jpg,stain,spalling
+Decision Tree,train/stain/cls06_451.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_460.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_467.jpg,stain,peeling
+Decision Tree,train/stain/cls06_485.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_489.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_491.jpg,stain,stain
+Decision Tree,train/stain/cls06_495.jpg,stain,stain
+Decision Tree,train/stain/cls06_502.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_507.jpg,stain,minor_crack
+Decision Tree,train/stain/cls06_521.jpg,stain,minor_crack
+Random Forest,train/algae/cls00_028.jpg,algae,algae
+Random Forest,train/algae/cls00_029.jpg,algae,algae
+Random Forest,train/algae/cls00_036.jpg,algae,algae
+Random Forest,train/algae/cls00_041.jpg,algae,spalling
+Random Forest,train/algae/cls00_042.jpg,algae,algae
+Random Forest,train/algae/cls00_044.jpg,algae,algae
+Random Forest,train/algae/cls00_045.jpg,algae,algae
+Random Forest,train/algae/cls00_053.jpg,algae,algae
+Random Forest,train/algae/cls00_062.jpg,algae,algae
+Random Forest,train/algae/cls00_065.jpg,algae,algae
+Random Forest,train/algae/cls00_066.jpg,algae,algae
+Random Forest,train/algae/cls00_072.jpg,algae,peeling
+Random Forest,train/algae/cls00_086.jpg,algae,algae
+Random Forest,train/algae/cls00_088.jpg,algae,algae
+Random Forest,train/algae/cls00_096.jpg,algae,algae
+Random Forest,train/algae/cls00_100.jpg,algae,algae
+Random Forest,train/algae/cls00_103.jpg,algae,peeling
+Random Forest,train/algae/cls00_122.jpg,algae,algae
+Random Forest,train/algae/cls00_135.jpg,algae,algae
+Random Forest,train/algae/cls00_136.jpg,algae,algae
+Random Forest,train/algae/cls00_140.jpg,algae,algae
+Random Forest,train/algae/cls00_153.jpg,algae,algae
+Random Forest,train/algae/cls00_158.jpg,algae,algae
+Random Forest,train/algae/cls00_166.jpg,algae,algae
+Random Forest,train/algae/cls00_172.jpg,algae,spalling
+Random Forest,train/algae/cls00_173.jpg,algae,spalling
+Random Forest,train/algae/cls00_191.jpg,algae,algae
+Random Forest,train/algae/cls00_203.jpg,algae,algae
+Random Forest,train/algae/cls00_207.jpg,algae,algae
+Random Forest,train/algae/cls00_208.jpg,algae,algae
+Random Forest,train/algae/cls00_218.jpg,algae,algae
+Random Forest,train/algae/cls00_219.jpg,algae,algae
+Random Forest,train/algae/cls00_226.jpg,algae,algae
+Random Forest,train/algae/cls00_235.jpg,algae,algae
+Random Forest,train/algae/cls00_238.jpg,algae,algae
+Random Forest,train/algae/cls00_242.jpg,algae,algae
+Random Forest,train/algae/cls00_245.jpg,algae,algae
+Random Forest,train/algae/cls00_253.jpg,algae,algae
+Random Forest,train/algae/cls00_275.jpg,algae,algae
+Random Forest,train/algae/cls00_285.jpg,algae,algae
+Random Forest,train/algae/cls00_287.jpg,algae,peeling
+Random Forest,train/algae/cls00_290.jpg,algae,algae
+Random Forest,train/algae/cls00_297.jpg,algae,algae
+Random Forest,train/algae/cls00_308.jpg,algae,algae
+Random Forest,train/algae/cls00_315.jpg,algae,stain
+Random Forest,train/algae/cls00_316.jpg,algae,spalling
+Random Forest,train/algae/cls00_317.jpg,algae,algae
+Random Forest,train/algae/cls00_339.jpg,algae,algae
+Random Forest,train/algae/cls00_349.jpg,algae,algae
+Random Forest,train/algae/cls00_353.jpg,algae,algae
+Random Forest,train/algae/cls00_360.jpg,algae,algae
+Random Forest,train/algae/cls00_368.jpg,algae,algae
+Random Forest,train/algae/cls00_378.jpg,algae,algae
+Random Forest,train/algae/cls00_380.jpg,algae,algae
+Random Forest,train/algae/cls00_386.jpg,algae,algae
+Random Forest,train/algae/cls00_389.jpg,algae,algae
+Random Forest,train/algae/cls00_391.jpg,algae,algae
+Random Forest,train/algae/cls00_399.jpg,algae,algae
+Random Forest,train/algae/cls00_403.jpg,algae,algae
+Random Forest,train/algae/cls00_412.jpg,algae,algae
+Random Forest,train/algae/cls00_415.jpg,algae,algae
+Random Forest,train/algae/cls00_437.jpg,algae,algae
+Random Forest,train/algae/cls00_452.jpg,algae,algae
+Random Forest,train/algae/cls00_456.jpg,algae,algae
+Random Forest,train/algae/cls00_459.jpg,algae,algae
+Random Forest,train/algae/cls00_460.jpg,algae,major_crack
+Random Forest,train/algae/cls00_465.jpg,algae,algae
+Random Forest,train/algae/cls00_473.jpg,algae,algae
+Random Forest,train/algae/cls00_476.jpg,algae,algae
+Random Forest,train/algae/cls00_478.jpg,algae,algae
+Random Forest,train/algae/cls00_483.jpg,algae,algae
+Random Forest,train/algae/cls00_486.jpg,algae,algae
+Random Forest,train/algae/cls00_490.jpg,algae,algae
+Random Forest,train/algae/cls00_494.jpg,algae,algae
+Random Forest,train/algae/cls00_495.jpg,algae,algae
+Random Forest,train/algae/cls00_496.jpg,algae,algae
+Random Forest,train/algae/cls00_501.jpg,algae,algae
+Random Forest,train/algae/cls00_505.jpg,algae,algae
+Random Forest,train/algae/cls00_511.jpg,algae,spalling
+Random Forest,train/algae/cls00_519.jpg,algae,algae
+Random Forest,train/algae/cls00_525.jpg,algae,algae
+Random Forest,train/algae/cls00_541.jpg,algae,algae
+Random Forest,train/algae/cls00_552.jpg,algae,algae
+Random Forest,train/algae/cls00_563.jpg,algae,algae
+Random Forest,train/algae/cls00_565.jpg,algae,algae
+Random Forest,train/algae/cls00_567.jpg,algae,algae
+Random Forest,train/algae/cls00_569.jpg,algae,algae
+Random Forest,train/algae/cls00_573.jpg,algae,algae
+Random Forest,train/algae/cls00_582.jpg,algae,algae
+Random Forest,train/algae/cls00_588.jpg,algae,algae
+Random Forest,train/algae/cls00_604.jpg,algae,algae
+Random Forest,train/algae/cls00_611.jpg,algae,algae
+Random Forest,train/major_crack/cls01_010.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_024.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_035.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_040.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_049.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_060.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_067.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_071.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_074.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_077.jpg,major_crack,algae
+Random Forest,train/major_crack/cls01_080.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_082.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_085.jpg,major_crack,stain
+Random Forest,train/major_crack/cls01_092.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_105.jpg,major_crack,peeling
+Random Forest,train/major_crack/cls01_107.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_114.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_119.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_121.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_124.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_135.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_136.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_140.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_147.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_148.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_180.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_193.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_199.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_203.jpg,major_crack,stain
+Random Forest,train/major_crack/cls01_204.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_207.jpg,major_crack,algae
+Random Forest,train/major_crack/cls01_219.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_231.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_235.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_251.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_255.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_261.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_262.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_264.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_270.jpg,major_crack,algae
+Random Forest,train/major_crack/cls01_275.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_296.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_310.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_313.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_318.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_332.jpg,major_crack,peeling
+Random Forest,train/major_crack/cls01_337.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_340.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_342.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_360.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_368.jpg,major_crack,spalling
+Random Forest,train/major_crack/cls01_381.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_390.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_392.jpg,major_crack,algae
+Random Forest,train/major_crack/cls01_400.jpg,major_crack,stain
+Random Forest,train/major_crack/cls01_403.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_409.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_410.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_411.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_417.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_424.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_428.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_437.jpg,major_crack,stain
+Random Forest,train/major_crack/cls01_439.jpg,major_crack,spalling
+Random Forest,train/major_crack/cls01_440.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_448.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_451.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_463.jpg,major_crack,peeling
+Random Forest,train/major_crack/cls01_474.jpg,major_crack,stain
+Random Forest,train/major_crack/cls01_479.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_483.jpg,major_crack,peeling
+Random Forest,train/major_crack/cls01_495.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_497.jpg,major_crack,algae
+Random Forest,train/major_crack/cls01_499.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_508.jpg,major_crack,minor_crack
+Random Forest,train/major_crack/cls01_509.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_516.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_519.jpg,major_crack,peeling
+Random Forest,train/major_crack/cls01_527.jpg,major_crack,stain
+Random Forest,train/major_crack/cls01_535.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_536.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_542.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_548.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_551.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_564.jpg,major_crack,major_crack
+Random Forest,train/major_crack/cls01_576.jpg,major_crack,major_crack
+Random Forest,train/minor_crack/cls02_007.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_008.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_014.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_017.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_018.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_037.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_042.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_044.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_058.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_068.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_081.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_084.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_087.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_088.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_091.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_093.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_094.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_102.jpg,minor_crack,stain
+Random Forest,train/minor_crack/cls02_116.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_126.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_127.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_130.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_142.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_152.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_154.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_155.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_157.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_160.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_161.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_163.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_171.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_173.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_174.jpg,minor_crack,plain
+Random Forest,train/minor_crack/cls02_177.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_184.jpg,minor_crack,spalling
+Random Forest,train/minor_crack/cls02_191.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_192.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_198.jpg,minor_crack,plain
+Random Forest,train/minor_crack/cls02_201.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_204.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_205.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_228.jpg,minor_crack,stain
+Random Forest,train/minor_crack/cls02_242.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_245.jpg,minor_crack,peeling
+Random Forest,train/minor_crack/cls02_267.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_280.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_300.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_307.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_316.jpg,minor_crack,spalling
+Random Forest,train/minor_crack/cls02_317.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_331.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_335.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_351.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_367.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_368.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_386.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_389.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_391.jpg,minor_crack,peeling
+Random Forest,train/minor_crack/cls02_392.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_397.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_406.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_409.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_410.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_415.jpg,minor_crack,spalling
+Random Forest,train/minor_crack/cls02_423.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_425.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_430.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_436.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_455.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_482.jpg,minor_crack,major_crack
+Random Forest,train/minor_crack/cls02_490.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_502.jpg,minor_crack,stain
+Random Forest,train/minor_crack/cls02_520.jpg,minor_crack,stain
+Random Forest,train/minor_crack/cls02_527.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_537.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_539.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_542.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_551.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_559.jpg,minor_crack,plain
+Random Forest,train/minor_crack/cls02_581.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_592.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_597.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_605.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_606.jpg,minor_crack,stain
+Random Forest,train/minor_crack/cls02_612.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_616.jpg,minor_crack,minor_crack
+Random Forest,train/minor_crack/cls02_620.jpg,minor_crack,stain
+Random Forest,train/peeling/cls03_004.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_007.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_014.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_022.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_025.jpg,peeling,major_crack
+Random Forest,train/peeling/cls03_040.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_041.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_050.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_059.jpg,peeling,minor_crack
+Random Forest,train/peeling/cls03_066.jpg,peeling,minor_crack
+Random Forest,train/peeling/cls03_073.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_082.jpg,peeling,major_crack
+Random Forest,train/peeling/cls03_093.jpg,peeling,stain
+Random Forest,train/peeling/cls03_096.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_105.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_111.jpg,peeling,minor_crack
+Random Forest,train/peeling/cls03_117.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_119.jpg,peeling,stain
+Random Forest,train/peeling/cls03_122.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_123.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_132.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_144.jpg,peeling,minor_crack
+Random Forest,train/peeling/cls03_148.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_149.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_151.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_153.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_155.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_175.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_178.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_179.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_189.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_195.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_206.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_209.jpg,peeling,minor_crack
+Random Forest,train/peeling/cls03_215.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_222.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_223.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_225.jpg,peeling,minor_crack
+Random Forest,train/peeling/cls03_230.jpg,peeling,major_crack
+Random Forest,train/peeling/cls03_242.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_244.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_248.jpg,peeling,major_crack
+Random Forest,train/peeling/cls03_252.jpg,peeling,spalling
+Random Forest,train/peeling/cls03_253.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_270.jpg,peeling,minor_crack
+Random Forest,train/peeling/cls03_285.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_292.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_300.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_308.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_312.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_313.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_315.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_321.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_338.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_356.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_359.jpg,peeling,stain
+Random Forest,train/peeling/cls03_367.jpg,peeling,stain
+Random Forest,train/peeling/cls03_373.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_391.jpg,peeling,stain
+Random Forest,train/peeling/cls03_393.jpg,peeling,stain
+Random Forest,train/peeling/cls03_394.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_400.jpg,peeling,algae
+Random Forest,train/peeling/cls03_410.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_412.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_421.jpg,peeling,stain
+Random Forest,train/peeling/cls03_422.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_433.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_439.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_445.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_466.jpg,peeling,plain
+Random Forest,train/peeling/cls03_478.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_480.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_486.jpg,peeling,algae
+Random Forest,train/peeling/cls03_487.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_492.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_505.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_512.jpg,peeling,peeling
+Random Forest,train/peeling/cls03_514.jpg,peeling,peeling
+Random Forest,train/plain/cls04_005.jpg,plain,plain
+Random Forest,train/plain/cls04_007.jpg,plain,minor_crack
+Random Forest,train/plain/cls04_014.jpg,plain,plain
+Random Forest,train/plain/cls04_020.jpg,plain,plain
+Random Forest,train/plain/cls04_025.jpg,plain,plain
+Random Forest,train/plain/cls04_043.jpg,plain,plain
+Random Forest,train/plain/cls04_055.jpg,plain,plain
+Random Forest,train/plain/cls04_060.jpg,plain,minor_crack
+Random Forest,train/plain/cls04_063.jpg,plain,plain
+Random Forest,train/plain/cls04_067.jpg,plain,minor_crack
+Random Forest,train/plain/cls04_073.jpg,plain,plain
+Random Forest,train/plain/cls04_079.jpg,plain,plain
+Random Forest,train/plain/cls04_080.jpg,plain,plain
+Random Forest,train/plain/cls04_086.jpg,plain,algae
+Random Forest,train/plain/cls04_092.jpg,plain,plain
+Random Forest,train/plain/cls04_096.jpg,plain,plain
+Random Forest,train/plain/cls04_097.jpg,plain,plain
+Random Forest,train/plain/cls04_101.jpg,plain,plain
+Random Forest,train/plain/cls04_110.jpg,plain,plain
+Random Forest,train/plain/cls04_116.jpg,plain,plain
+Random Forest,train/plain/cls04_117.jpg,plain,plain
+Random Forest,train/plain/cls04_124.jpg,plain,plain
+Random Forest,train/plain/cls04_130.jpg,plain,plain
+Random Forest,train/plain/cls04_141.jpg,plain,plain
+Random Forest,train/plain/cls04_146.jpg,plain,plain
+Random Forest,train/plain/cls04_149.jpg,plain,major_crack
+Random Forest,train/plain/cls04_151.jpg,plain,plain
+Random Forest,train/plain/cls04_158.jpg,plain,plain
+Random Forest,train/plain/cls04_160.jpg,plain,plain
+Random Forest,train/plain/cls04_161.jpg,plain,plain
+Random Forest,train/plain/cls04_164.jpg,plain,plain
+Random Forest,train/plain/cls04_178.jpg,plain,plain
+Random Forest,train/plain/cls04_196.jpg,plain,plain
+Random Forest,train/plain/cls04_206.jpg,plain,plain
+Random Forest,train/plain/cls04_208.jpg,plain,plain
+Random Forest,train/plain/cls04_229.jpg,plain,plain
+Random Forest,train/plain/cls04_231.jpg,plain,plain
+Random Forest,train/plain/cls04_248.jpg,plain,plain
+Random Forest,train/plain/cls04_252.jpg,plain,plain
+Random Forest,train/plain/cls04_254.jpg,plain,plain
+Random Forest,train/plain/cls04_263.jpg,plain,plain
+Random Forest,train/plain/cls04_266.jpg,plain,plain
+Random Forest,train/plain/cls04_274.jpg,plain,plain
+Random Forest,train/plain/cls04_280.jpg,plain,plain
+Random Forest,train/plain/cls04_288.jpg,plain,plain
+Random Forest,train/plain/cls04_310.jpg,plain,plain
+Random Forest,train/plain/cls04_316.jpg,plain,plain
+Random Forest,train/plain/cls04_331.jpg,plain,plain
+Random Forest,train/plain/cls04_338.jpg,plain,algae
+Random Forest,train/plain/cls04_351.jpg,plain,plain
+Random Forest,train/plain/cls04_361.jpg,plain,plain
+Random Forest,train/plain/cls04_383.jpg,plain,minor_crack
+Random Forest,train/plain/cls04_384.jpg,plain,minor_crack
+Random Forest,train/plain/cls04_394.jpg,plain,plain
+Random Forest,train/plain/cls04_395.jpg,plain,plain
+Random Forest,train/plain/cls04_401.jpg,plain,plain
+Random Forest,train/plain/cls04_408.jpg,plain,algae
+Random Forest,train/plain/cls04_409.jpg,plain,plain
+Random Forest,train/plain/cls04_418.jpg,plain,plain
+Random Forest,train/plain/cls04_421.jpg,plain,plain
+Random Forest,train/plain/cls04_432.jpg,plain,plain
+Random Forest,train/plain/cls04_447.jpg,plain,plain
+Random Forest,train/plain/cls04_455.jpg,plain,minor_crack
+Random Forest,train/plain/cls04_460.jpg,plain,major_crack
+Random Forest,train/plain/cls04_463.jpg,plain,plain
+Random Forest,train/plain/cls04_466.jpg,plain,plain
+Random Forest,train/plain/cls04_470.jpg,plain,plain
+Random Forest,train/plain/cls04_471.jpg,plain,plain
+Random Forest,train/plain/cls04_481.jpg,plain,minor_crack
+Random Forest,train/plain/cls04_486.jpg,plain,plain
+Random Forest,train/plain/cls04_489.jpg,plain,plain
+Random Forest,train/plain/cls04_505.jpg,plain,plain
+Random Forest,train/plain/cls04_510.jpg,plain,plain
+Random Forest,train/plain/cls04_513.jpg,plain,plain
+Random Forest,train/plain/cls04_516.jpg,plain,plain
+Random Forest,train/plain/cls04_519.jpg,plain,plain
+Random Forest,train/plain/cls04_521.jpg,plain,plain
+Random Forest,train/plain/cls04_531.jpg,plain,plain
+Random Forest,train/plain/cls04_532.jpg,plain,plain
+Random Forest,train/plain/cls04_533.jpg,plain,plain
+Random Forest,train/plain/cls04_535.jpg,plain,plain
+Random Forest,train/plain/cls04_545.jpg,plain,plain
+Random Forest,train/plain/cls04_551.jpg,plain,plain
+Random Forest,train/plain/cls04_554.jpg,plain,plain
+Random Forest,train/plain/cls04_562.jpg,plain,plain
+Random Forest,train/plain/cls04_570.jpg,plain,plain
+Random Forest,train/plain/cls04_580.jpg,plain,plain
+Random Forest,train/plain/cls04_593.jpg,plain,plain
+Random Forest,train/plain/cls04_600.jpg,plain,plain
+Random Forest,train/spalling/cls05_008.jpg,spalling,algae
+Random Forest,train/spalling/cls05_012.jpg,spalling,algae
+Random Forest,train/spalling/cls05_016.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_020.jpg,spalling,algae
+Random Forest,train/spalling/cls05_021.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_025.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_026.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_042.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_047.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_049.jpg,spalling,peeling
+Random Forest,train/spalling/cls05_055.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_057.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_058.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_063.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_079.jpg,spalling,algae
+Random Forest,train/spalling/cls05_085.jpg,spalling,minor_crack
+Random Forest,train/spalling/cls05_086.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_089.jpg,spalling,peeling
+Random Forest,train/spalling/cls05_097.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_099.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_101.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_109.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_116.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_129.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_131.jpg,spalling,peeling
+Random Forest,train/spalling/cls05_133.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_143.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_144.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_154.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_158.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_164.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_168.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_176.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_189.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_192.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_197.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_210.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_232.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_238.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_243.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_246.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_247.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_248.jpg,spalling,major_crack
+Random Forest,train/spalling/cls05_254.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_268.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_275.jpg,spalling,algae
+Random Forest,train/spalling/cls05_279.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_281.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_283.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_284.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_294.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_307.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_330.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_344.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_353.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_366.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_369.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_381.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_385.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_398.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_399.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_400.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_409.jpg,spalling,algae
+Random Forest,train/spalling/cls05_411.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_427.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_429.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_435.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_444.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_446.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_448.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_464.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_468.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_470.jpg,spalling,spalling
+Random Forest,train/spalling/cls05_485.jpg,spalling,peeling
+Random Forest,train/spalling/cls05_499.jpg,spalling,spalling
+Random Forest,train/stain/cls06_005.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_017.jpg,stain,stain
+Random Forest,train/stain/cls06_030.jpg,stain,stain
+Random Forest,train/stain/cls06_031.jpg,stain,stain
+Random Forest,train/stain/cls06_045.jpg,stain,algae
+Random Forest,train/stain/cls06_046.jpg,stain,stain
+Random Forest,train/stain/cls06_051.jpg,stain,stain
+Random Forest,train/stain/cls06_059.jpg,stain,algae
+Random Forest,train/stain/cls06_064.jpg,stain,algae
+Random Forest,train/stain/cls06_075.jpg,stain,stain
+Random Forest,train/stain/cls06_077.jpg,stain,stain
+Random Forest,train/stain/cls06_082.jpg,stain,stain
+Random Forest,train/stain/cls06_091.jpg,stain,stain
+Random Forest,train/stain/cls06_102.jpg,stain,stain
+Random Forest,train/stain/cls06_104.jpg,stain,major_crack
+Random Forest,train/stain/cls06_108.jpg,stain,stain
+Random Forest,train/stain/cls06_109.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_111.jpg,stain,stain
+Random Forest,train/stain/cls06_113.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_117.jpg,stain,stain
+Random Forest,train/stain/cls06_124.jpg,stain,major_crack
+Random Forest,train/stain/cls06_139.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_147.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_149.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_152.jpg,stain,stain
+Random Forest,train/stain/cls06_162.jpg,stain,stain
+Random Forest,train/stain/cls06_164.jpg,stain,spalling
+Random Forest,train/stain/cls06_170.jpg,stain,algae
+Random Forest,train/stain/cls06_173.jpg,stain,stain
+Random Forest,train/stain/cls06_179.jpg,stain,stain
+Random Forest,train/stain/cls06_183.jpg,stain,stain
+Random Forest,train/stain/cls06_196.jpg,stain,stain
+Random Forest,train/stain/cls06_201.jpg,stain,stain
+Random Forest,train/stain/cls06_204.jpg,stain,plain
+Random Forest,train/stain/cls06_214.jpg,stain,stain
+Random Forest,train/stain/cls06_216.jpg,stain,stain
+Random Forest,train/stain/cls06_236.jpg,stain,stain
+Random Forest,train/stain/cls06_242.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_250.jpg,stain,stain
+Random Forest,train/stain/cls06_252.jpg,stain,stain
+Random Forest,train/stain/cls06_260.jpg,stain,peeling
+Random Forest,train/stain/cls06_267.jpg,stain,stain
+Random Forest,train/stain/cls06_278.jpg,stain,stain
+Random Forest,train/stain/cls06_285.jpg,stain,stain
+Random Forest,train/stain/cls06_305.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_309.jpg,stain,stain
+Random Forest,train/stain/cls06_325.jpg,stain,spalling
+Random Forest,train/stain/cls06_339.jpg,stain,algae
+Random Forest,train/stain/cls06_345.jpg,stain,stain
+Random Forest,train/stain/cls06_353.jpg,stain,stain
+Random Forest,train/stain/cls06_377.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_380.jpg,stain,major_crack
+Random Forest,train/stain/cls06_390.jpg,stain,plain
+Random Forest,train/stain/cls06_398.jpg,stain,stain
+Random Forest,train/stain/cls06_400.jpg,stain,peeling
+Random Forest,train/stain/cls06_402.jpg,stain,major_crack
+Random Forest,train/stain/cls06_409.jpg,stain,stain
+Random Forest,train/stain/cls06_418.jpg,stain,stain
+Random Forest,train/stain/cls06_422.jpg,stain,peeling
+Random Forest,train/stain/cls06_429.jpg,stain,stain
+Random Forest,train/stain/cls06_431.jpg,stain,stain
+Random Forest,train/stain/cls06_433.jpg,stain,major_crack
+Random Forest,train/stain/cls06_436.jpg,stain,stain
+Random Forest,train/stain/cls06_437.jpg,stain,algae
+Random Forest,train/stain/cls06_438.jpg,stain,major_crack
+Random Forest,train/stain/cls06_444.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_450.jpg,stain,spalling
+Random Forest,train/stain/cls06_451.jpg,stain,stain
+Random Forest,train/stain/cls06_460.jpg,stain,stain
+Random Forest,train/stain/cls06_467.jpg,stain,stain
+Random Forest,train/stain/cls06_485.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_489.jpg,stain,stain
+Random Forest,train/stain/cls06_491.jpg,stain,peeling
+Random Forest,train/stain/cls06_495.jpg,stain,stain
+Random Forest,train/stain/cls06_502.jpg,stain,minor_crack
+Random Forest,train/stain/cls06_507.jpg,stain,stain
+Random Forest,train/stain/cls06_521.jpg,stain,stain
+KNN,train/algae/cls00_028.jpg,algae,algae
+KNN,train/algae/cls00_029.jpg,algae,algae
+KNN,train/algae/cls00_036.jpg,algae,algae
+KNN,train/algae/cls00_041.jpg,algae,algae
+KNN,train/algae/cls00_042.jpg,algae,peeling
+KNN,train/algae/cls00_044.jpg,algae,algae
+KNN,train/algae/cls00_045.jpg,algae,algae
+KNN,train/algae/cls00_053.jpg,algae,algae
+KNN,train/algae/cls00_062.jpg,algae,algae
+KNN,train/algae/cls00_065.jpg,algae,algae
+KNN,train/algae/cls00_066.jpg,algae,algae
+KNN,train/algae/cls00_072.jpg,algae,algae
+KNN,train/algae/cls00_086.jpg,algae,plain
+KNN,train/algae/cls00_088.jpg,algae,algae
+KNN,train/algae/cls00_096.jpg,algae,algae
+KNN,train/algae/cls00_100.jpg,algae,peeling
+KNN,train/algae/cls00_103.jpg,algae,stain
+KNN,train/algae/cls00_122.jpg,algae,algae
+KNN,train/algae/cls00_135.jpg,algae,algae
+KNN,train/algae/cls00_136.jpg,algae,algae
+KNN,train/algae/cls00_140.jpg,algae,algae
+KNN,train/algae/cls00_153.jpg,algae,algae
+KNN,train/algae/cls00_158.jpg,algae,algae
+KNN,train/algae/cls00_166.jpg,algae,algae
+KNN,train/algae/cls00_172.jpg,algae,algae
+KNN,train/algae/cls00_173.jpg,algae,algae
+KNN,train/algae/cls00_191.jpg,algae,algae
+KNN,train/algae/cls00_203.jpg,algae,peeling
+KNN,train/algae/cls00_207.jpg,algae,algae
+KNN,train/algae/cls00_208.jpg,algae,spalling
+KNN,train/algae/cls00_218.jpg,algae,algae
+KNN,train/algae/cls00_219.jpg,algae,algae
+KNN,train/algae/cls00_226.jpg,algae,algae
+KNN,train/algae/cls00_235.jpg,algae,algae
+KNN,train/algae/cls00_238.jpg,algae,algae
+KNN,train/algae/cls00_242.jpg,algae,algae
+KNN,train/algae/cls00_245.jpg,algae,algae
+KNN,train/algae/cls00_253.jpg,algae,algae
+KNN,train/algae/cls00_275.jpg,algae,algae
+KNN,train/algae/cls00_285.jpg,algae,algae
+KNN,train/algae/cls00_287.jpg,algae,algae
+KNN,train/algae/cls00_290.jpg,algae,algae
+KNN,train/algae/cls00_297.jpg,algae,algae
+KNN,train/algae/cls00_308.jpg,algae,algae
+KNN,train/algae/cls00_315.jpg,algae,algae
+KNN,train/algae/cls00_316.jpg,algae,spalling
+KNN,train/algae/cls00_317.jpg,algae,algae
+KNN,train/algae/cls00_339.jpg,algae,peeling
+KNN,train/algae/cls00_349.jpg,algae,algae
+KNN,train/algae/cls00_353.jpg,algae,algae
+KNN,train/algae/cls00_360.jpg,algae,algae
+KNN,train/algae/cls00_368.jpg,algae,algae
+KNN,train/algae/cls00_378.jpg,algae,algae
+KNN,train/algae/cls00_380.jpg,algae,algae
+KNN,train/algae/cls00_386.jpg,algae,algae
+KNN,train/algae/cls00_389.jpg,algae,algae
+KNN,train/algae/cls00_391.jpg,algae,algae
+KNN,train/algae/cls00_399.jpg,algae,algae
+KNN,train/algae/cls00_403.jpg,algae,algae
+KNN,train/algae/cls00_412.jpg,algae,algae
+KNN,train/algae/cls00_415.jpg,algae,major_crack
+KNN,train/algae/cls00_437.jpg,algae,algae
+KNN,train/algae/cls00_452.jpg,algae,spalling
+KNN,train/algae/cls00_456.jpg,algae,algae
+KNN,train/algae/cls00_459.jpg,algae,algae
+KNN,train/algae/cls00_460.jpg,algae,algae
+KNN,train/algae/cls00_465.jpg,algae,algae
+KNN,train/algae/cls00_473.jpg,algae,algae
+KNN,train/algae/cls00_476.jpg,algae,algae
+KNN,train/algae/cls00_478.jpg,algae,algae
+KNN,train/algae/cls00_483.jpg,algae,algae
+KNN,train/algae/cls00_486.jpg,algae,stain
+KNN,train/algae/cls00_490.jpg,algae,algae
+KNN,train/algae/cls00_494.jpg,algae,plain
+KNN,train/algae/cls00_495.jpg,algae,algae
+KNN,train/algae/cls00_496.jpg,algae,algae
+KNN,train/algae/cls00_501.jpg,algae,algae
+KNN,train/algae/cls00_505.jpg,algae,spalling
+KNN,train/algae/cls00_511.jpg,algae,spalling
+KNN,train/algae/cls00_519.jpg,algae,spalling
+KNN,train/algae/cls00_525.jpg,algae,plain
+KNN,train/algae/cls00_541.jpg,algae,algae
+KNN,train/algae/cls00_552.jpg,algae,minor_crack
+KNN,train/algae/cls00_563.jpg,algae,algae
+KNN,train/algae/cls00_565.jpg,algae,algae
+KNN,train/algae/cls00_567.jpg,algae,algae
+KNN,train/algae/cls00_569.jpg,algae,algae
+KNN,train/algae/cls00_573.jpg,algae,algae
+KNN,train/algae/cls00_582.jpg,algae,algae
+KNN,train/algae/cls00_588.jpg,algae,algae
+KNN,train/algae/cls00_604.jpg,algae,algae
+KNN,train/algae/cls00_611.jpg,algae,plain
+KNN,train/major_crack/cls01_010.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_024.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_035.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_040.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_049.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_060.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_067.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_071.jpg,major_crack,spalling
+KNN,train/major_crack/cls01_074.jpg,major_crack,stain
+KNN,train/major_crack/cls01_077.jpg,major_crack,plain
+KNN,train/major_crack/cls01_080.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_082.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_085.jpg,major_crack,peeling
+KNN,train/major_crack/cls01_092.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_105.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_107.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_114.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_119.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_121.jpg,major_crack,peeling
+KNN,train/major_crack/cls01_124.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_135.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_136.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_140.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_147.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_148.jpg,major_crack,plain
+KNN,train/major_crack/cls01_180.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_193.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_199.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_203.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_204.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_207.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_219.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_231.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_235.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_251.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_255.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_261.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_262.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_264.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_270.jpg,major_crack,plain
+KNN,train/major_crack/cls01_275.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_296.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_310.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_313.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_318.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_332.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_337.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_340.jpg,major_crack,plain
+KNN,train/major_crack/cls01_342.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_360.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_368.jpg,major_crack,peeling
+KNN,train/major_crack/cls01_381.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_390.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_392.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_400.jpg,major_crack,spalling
+KNN,train/major_crack/cls01_403.jpg,major_crack,peeling
+KNN,train/major_crack/cls01_409.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_410.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_411.jpg,major_crack,plain
+KNN,train/major_crack/cls01_417.jpg,major_crack,stain
+KNN,train/major_crack/cls01_424.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_428.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_437.jpg,major_crack,stain
+KNN,train/major_crack/cls01_439.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_440.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_448.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_451.jpg,major_crack,stain
+KNN,train/major_crack/cls01_463.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_474.jpg,major_crack,plain
+KNN,train/major_crack/cls01_479.jpg,major_crack,algae
+KNN,train/major_crack/cls01_483.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_495.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_497.jpg,major_crack,algae
+KNN,train/major_crack/cls01_499.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_508.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_509.jpg,major_crack,stain
+KNN,train/major_crack/cls01_516.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_519.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_527.jpg,major_crack,peeling
+KNN,train/major_crack/cls01_535.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_536.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_542.jpg,major_crack,stain
+KNN,train/major_crack/cls01_548.jpg,major_crack,plain
+KNN,train/major_crack/cls01_551.jpg,major_crack,major_crack
+KNN,train/major_crack/cls01_564.jpg,major_crack,minor_crack
+KNN,train/major_crack/cls01_576.jpg,major_crack,major_crack
+KNN,train/minor_crack/cls02_007.jpg,minor_crack,major_crack
+KNN,train/minor_crack/cls02_008.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_014.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_017.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_018.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_037.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_042.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_044.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_058.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_068.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_081.jpg,minor_crack,major_crack
+KNN,train/minor_crack/cls02_084.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_087.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_088.jpg,minor_crack,major_crack
+KNN,train/minor_crack/cls02_091.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_093.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_094.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_102.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_116.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_126.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_127.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_130.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_142.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_152.jpg,minor_crack,major_crack
+KNN,train/minor_crack/cls02_154.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_155.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_157.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_160.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_161.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_163.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_171.jpg,minor_crack,major_crack
+KNN,train/minor_crack/cls02_173.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_174.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_177.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_184.jpg,minor_crack,stain
+KNN,train/minor_crack/cls02_191.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_192.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_198.jpg,minor_crack,major_crack
+KNN,train/minor_crack/cls02_201.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_204.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_205.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_228.jpg,minor_crack,stain
+KNN,train/minor_crack/cls02_242.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_245.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_267.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_280.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_300.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_307.jpg,minor_crack,stain
+KNN,train/minor_crack/cls02_316.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_317.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_331.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_335.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_351.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_367.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_368.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_386.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_389.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_391.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_392.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_397.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_406.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_409.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_410.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_415.jpg,minor_crack,spalling
+KNN,train/minor_crack/cls02_423.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_425.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_430.jpg,minor_crack,peeling
+KNN,train/minor_crack/cls02_436.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_455.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_482.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_490.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_502.jpg,minor_crack,stain
+KNN,train/minor_crack/cls02_520.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_527.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_537.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_539.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_542.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_551.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_559.jpg,minor_crack,plain
+KNN,train/minor_crack/cls02_581.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_592.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_597.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_605.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_606.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_612.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_616.jpg,minor_crack,minor_crack
+KNN,train/minor_crack/cls02_620.jpg,minor_crack,major_crack
+KNN,train/peeling/cls03_004.jpg,peeling,stain
+KNN,train/peeling/cls03_007.jpg,peeling,spalling
+KNN,train/peeling/cls03_014.jpg,peeling,peeling
+KNN,train/peeling/cls03_022.jpg,peeling,peeling
+KNN,train/peeling/cls03_025.jpg,peeling,plain
+KNN,train/peeling/cls03_040.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_041.jpg,peeling,peeling
+KNN,train/peeling/cls03_050.jpg,peeling,peeling
+KNN,train/peeling/cls03_059.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_066.jpg,peeling,peeling
+KNN,train/peeling/cls03_073.jpg,peeling,peeling
+KNN,train/peeling/cls03_082.jpg,peeling,algae
+KNN,train/peeling/cls03_093.jpg,peeling,peeling
+KNN,train/peeling/cls03_096.jpg,peeling,stain
+KNN,train/peeling/cls03_105.jpg,peeling,peeling
+KNN,train/peeling/cls03_111.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_117.jpg,peeling,stain
+KNN,train/peeling/cls03_119.jpg,peeling,peeling
+KNN,train/peeling/cls03_122.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_123.jpg,peeling,peeling
+KNN,train/peeling/cls03_132.jpg,peeling,stain
+KNN,train/peeling/cls03_144.jpg,peeling,plain
+KNN,train/peeling/cls03_148.jpg,peeling,peeling
+KNN,train/peeling/cls03_149.jpg,peeling,spalling
+KNN,train/peeling/cls03_151.jpg,peeling,stain
+KNN,train/peeling/cls03_153.jpg,peeling,peeling
+KNN,train/peeling/cls03_155.jpg,peeling,stain
+KNN,train/peeling/cls03_175.jpg,peeling,spalling
+KNN,train/peeling/cls03_178.jpg,peeling,stain
+KNN,train/peeling/cls03_179.jpg,peeling,stain
+KNN,train/peeling/cls03_189.jpg,peeling,peeling
+KNN,train/peeling/cls03_195.jpg,peeling,peeling
+KNN,train/peeling/cls03_206.jpg,peeling,stain
+KNN,train/peeling/cls03_209.jpg,peeling,stain
+KNN,train/peeling/cls03_215.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_222.jpg,peeling,peeling
+KNN,train/peeling/cls03_223.jpg,peeling,peeling
+KNN,train/peeling/cls03_225.jpg,peeling,peeling
+KNN,train/peeling/cls03_230.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_242.jpg,peeling,peeling
+KNN,train/peeling/cls03_244.jpg,peeling,peeling
+KNN,train/peeling/cls03_248.jpg,peeling,major_crack
+KNN,train/peeling/cls03_252.jpg,peeling,algae
+KNN,train/peeling/cls03_253.jpg,peeling,peeling
+KNN,train/peeling/cls03_270.jpg,peeling,stain
+KNN,train/peeling/cls03_285.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_292.jpg,peeling,algae
+KNN,train/peeling/cls03_300.jpg,peeling,algae
+KNN,train/peeling/cls03_308.jpg,peeling,peeling
+KNN,train/peeling/cls03_312.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_313.jpg,peeling,stain
+KNN,train/peeling/cls03_315.jpg,peeling,peeling
+KNN,train/peeling/cls03_321.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_338.jpg,peeling,peeling
+KNN,train/peeling/cls03_356.jpg,peeling,stain
+KNN,train/peeling/cls03_359.jpg,peeling,plain
+KNN,train/peeling/cls03_367.jpg,peeling,peeling
+KNN,train/peeling/cls03_373.jpg,peeling,stain
+KNN,train/peeling/cls03_391.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_393.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_394.jpg,peeling,stain
+KNN,train/peeling/cls03_400.jpg,peeling,algae
+KNN,train/peeling/cls03_410.jpg,peeling,stain
+KNN,train/peeling/cls03_412.jpg,peeling,algae
+KNN,train/peeling/cls03_421.jpg,peeling,plain
+KNN,train/peeling/cls03_422.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_433.jpg,peeling,peeling
+KNN,train/peeling/cls03_439.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_445.jpg,peeling,stain
+KNN,train/peeling/cls03_466.jpg,peeling,peeling
+KNN,train/peeling/cls03_478.jpg,peeling,peeling
+KNN,train/peeling/cls03_480.jpg,peeling,peeling
+KNN,train/peeling/cls03_486.jpg,peeling,plain
+KNN,train/peeling/cls03_487.jpg,peeling,peeling
+KNN,train/peeling/cls03_492.jpg,peeling,minor_crack
+KNN,train/peeling/cls03_505.jpg,peeling,peeling
+KNN,train/peeling/cls03_512.jpg,peeling,stain
+KNN,train/peeling/cls03_514.jpg,peeling,peeling
+KNN,train/plain/cls04_005.jpg,plain,plain
+KNN,train/plain/cls04_007.jpg,plain,plain
+KNN,train/plain/cls04_014.jpg,plain,plain
+KNN,train/plain/cls04_020.jpg,plain,plain
+KNN,train/plain/cls04_025.jpg,plain,plain
+KNN,train/plain/cls04_043.jpg,plain,plain
+KNN,train/plain/cls04_055.jpg,plain,plain
+KNN,train/plain/cls04_060.jpg,plain,minor_crack
+KNN,train/plain/cls04_063.jpg,plain,plain
+KNN,train/plain/cls04_067.jpg,plain,plain
+KNN,train/plain/cls04_073.jpg,plain,plain
+KNN,train/plain/cls04_079.jpg,plain,plain
+KNN,train/plain/cls04_080.jpg,plain,plain
+KNN,train/plain/cls04_086.jpg,plain,plain
+KNN,train/plain/cls04_092.jpg,plain,plain
+KNN,train/plain/cls04_096.jpg,plain,plain
+KNN,train/plain/cls04_097.jpg,plain,plain
+KNN,train/plain/cls04_101.jpg,plain,plain
+KNN,train/plain/cls04_110.jpg,plain,plain
+KNN,train/plain/cls04_116.jpg,plain,plain
+KNN,train/plain/cls04_117.jpg,plain,plain
+KNN,train/plain/cls04_124.jpg,plain,plain
+KNN,train/plain/cls04_130.jpg,plain,plain
+KNN,train/plain/cls04_141.jpg,plain,plain
+KNN,train/plain/cls04_146.jpg,plain,stain
+KNN,train/plain/cls04_149.jpg,plain,plain
+KNN,train/plain/cls04_151.jpg,plain,plain
+KNN,train/plain/cls04_158.jpg,plain,plain
+KNN,train/plain/cls04_160.jpg,plain,plain
+KNN,train/plain/cls04_161.jpg,plain,plain
+KNN,train/plain/cls04_164.jpg,plain,plain
+KNN,train/plain/cls04_178.jpg,plain,plain
+KNN,train/plain/cls04_196.jpg,plain,plain
+KNN,train/plain/cls04_206.jpg,plain,stain
+KNN,train/plain/cls04_208.jpg,plain,plain
+KNN,train/plain/cls04_229.jpg,plain,plain
+KNN,train/plain/cls04_231.jpg,plain,plain
+KNN,train/plain/cls04_248.jpg,plain,plain
+KNN,train/plain/cls04_252.jpg,plain,plain
+KNN,train/plain/cls04_254.jpg,plain,plain
+KNN,train/plain/cls04_263.jpg,plain,plain
+KNN,train/plain/cls04_266.jpg,plain,plain
+KNN,train/plain/cls04_274.jpg,plain,plain
+KNN,train/plain/cls04_280.jpg,plain,plain
+KNN,train/plain/cls04_288.jpg,plain,plain
+KNN,train/plain/cls04_310.jpg,plain,plain
+KNN,train/plain/cls04_316.jpg,plain,plain
+KNN,train/plain/cls04_331.jpg,plain,plain
+KNN,train/plain/cls04_338.jpg,plain,plain
+KNN,train/plain/cls04_351.jpg,plain,plain
+KNN,train/plain/cls04_361.jpg,plain,plain
+KNN,train/plain/cls04_383.jpg,plain,minor_crack
+KNN,train/plain/cls04_384.jpg,plain,plain
+KNN,train/plain/cls04_394.jpg,plain,plain
+KNN,train/plain/cls04_395.jpg,plain,plain
+KNN,train/plain/cls04_401.jpg,plain,plain
+KNN,train/plain/cls04_408.jpg,plain,plain
+KNN,train/plain/cls04_409.jpg,plain,plain
+KNN,train/plain/cls04_418.jpg,plain,plain
+KNN,train/plain/cls04_421.jpg,plain,plain
+KNN,train/plain/cls04_432.jpg,plain,plain
+KNN,train/plain/cls04_447.jpg,plain,plain
+KNN,train/plain/cls04_455.jpg,plain,minor_crack
+KNN,train/plain/cls04_460.jpg,plain,plain
+KNN,train/plain/cls04_463.jpg,plain,plain
+KNN,train/plain/cls04_466.jpg,plain,plain
+KNN,train/plain/cls04_470.jpg,plain,plain
+KNN,train/plain/cls04_471.jpg,plain,plain
+KNN,train/plain/cls04_481.jpg,plain,minor_crack
+KNN,train/plain/cls04_486.jpg,plain,plain
+KNN,train/plain/cls04_489.jpg,plain,plain
+KNN,train/plain/cls04_505.jpg,plain,plain
+KNN,train/plain/cls04_510.jpg,plain,plain
+KNN,train/plain/cls04_513.jpg,plain,plain
+KNN,train/plain/cls04_516.jpg,plain,plain
+KNN,train/plain/cls04_519.jpg,plain,plain
+KNN,train/plain/cls04_521.jpg,plain,plain
+KNN,train/plain/cls04_531.jpg,plain,plain
+KNN,train/plain/cls04_532.jpg,plain,plain
+KNN,train/plain/cls04_533.jpg,plain,peeling
+KNN,train/plain/cls04_535.jpg,plain,plain
+KNN,train/plain/cls04_545.jpg,plain,plain
+KNN,train/plain/cls04_551.jpg,plain,plain
+KNN,train/plain/cls04_554.jpg,plain,plain
+KNN,train/plain/cls04_562.jpg,plain,plain
+KNN,train/plain/cls04_570.jpg,plain,plain
+KNN,train/plain/cls04_580.jpg,plain,plain
+KNN,train/plain/cls04_593.jpg,plain,plain
+KNN,train/plain/cls04_600.jpg,plain,plain
+KNN,train/spalling/cls05_008.jpg,spalling,plain
+KNN,train/spalling/cls05_012.jpg,spalling,spalling
+KNN,train/spalling/cls05_016.jpg,spalling,spalling
+KNN,train/spalling/cls05_020.jpg,spalling,spalling
+KNN,train/spalling/cls05_021.jpg,spalling,spalling
+KNN,train/spalling/cls05_025.jpg,spalling,spalling
+KNN,train/spalling/cls05_026.jpg,spalling,spalling
+KNN,train/spalling/cls05_042.jpg,spalling,spalling
+KNN,train/spalling/cls05_047.jpg,spalling,spalling
+KNN,train/spalling/cls05_049.jpg,spalling,peeling
+KNN,train/spalling/cls05_055.jpg,spalling,spalling
+KNN,train/spalling/cls05_057.jpg,spalling,spalling
+KNN,train/spalling/cls05_058.jpg,spalling,spalling
+KNN,train/spalling/cls05_063.jpg,spalling,spalling
+KNN,train/spalling/cls05_079.jpg,spalling,plain
+KNN,train/spalling/cls05_085.jpg,spalling,spalling
+KNN,train/spalling/cls05_086.jpg,spalling,spalling
+KNN,train/spalling/cls05_089.jpg,spalling,stain
+KNN,train/spalling/cls05_097.jpg,spalling,major_crack
+KNN,train/spalling/cls05_099.jpg,spalling,spalling
+KNN,train/spalling/cls05_101.jpg,spalling,spalling
+KNN,train/spalling/cls05_109.jpg,spalling,spalling
+KNN,train/spalling/cls05_116.jpg,spalling,algae
+KNN,train/spalling/cls05_129.jpg,spalling,algae
+KNN,train/spalling/cls05_131.jpg,spalling,plain
+KNN,train/spalling/cls05_133.jpg,spalling,spalling
+KNN,train/spalling/cls05_143.jpg,spalling,spalling
+KNN,train/spalling/cls05_144.jpg,spalling,spalling
+KNN,train/spalling/cls05_154.jpg,spalling,algae
+KNN,train/spalling/cls05_158.jpg,spalling,algae
+KNN,train/spalling/cls05_164.jpg,spalling,algae
+KNN,train/spalling/cls05_168.jpg,spalling,algae
+KNN,train/spalling/cls05_176.jpg,spalling,spalling
+KNN,train/spalling/cls05_189.jpg,spalling,spalling
+KNN,train/spalling/cls05_192.jpg,spalling,spalling
+KNN,train/spalling/cls05_197.jpg,spalling,plain
+KNN,train/spalling/cls05_210.jpg,spalling,spalling
+KNN,train/spalling/cls05_232.jpg,spalling,spalling
+KNN,train/spalling/cls05_238.jpg,spalling,algae
+KNN,train/spalling/cls05_243.jpg,spalling,spalling
+KNN,train/spalling/cls05_246.jpg,spalling,peeling
+KNN,train/spalling/cls05_247.jpg,spalling,algae
+KNN,train/spalling/cls05_248.jpg,spalling,plain
+KNN,train/spalling/cls05_254.jpg,spalling,spalling
+KNN,train/spalling/cls05_268.jpg,spalling,spalling
+KNN,train/spalling/cls05_275.jpg,spalling,algae
+KNN,train/spalling/cls05_279.jpg,spalling,spalling
+KNN,train/spalling/cls05_281.jpg,spalling,minor_crack
+KNN,train/spalling/cls05_283.jpg,spalling,algae
+KNN,train/spalling/cls05_284.jpg,spalling,spalling
+KNN,train/spalling/cls05_294.jpg,spalling,spalling
+KNN,train/spalling/cls05_307.jpg,spalling,spalling
+KNN,train/spalling/cls05_330.jpg,spalling,spalling
+KNN,train/spalling/cls05_344.jpg,spalling,spalling
+KNN,train/spalling/cls05_353.jpg,spalling,spalling
+KNN,train/spalling/cls05_366.jpg,spalling,peeling
+KNN,train/spalling/cls05_369.jpg,spalling,peeling
+KNN,train/spalling/cls05_381.jpg,spalling,spalling
+KNN,train/spalling/cls05_385.jpg,spalling,algae
+KNN,train/spalling/cls05_398.jpg,spalling,spalling
+KNN,train/spalling/cls05_399.jpg,spalling,spalling
+KNN,train/spalling/cls05_400.jpg,spalling,spalling
+KNN,train/spalling/cls05_409.jpg,spalling,spalling
+KNN,train/spalling/cls05_411.jpg,spalling,algae
+KNN,train/spalling/cls05_427.jpg,spalling,spalling
+KNN,train/spalling/cls05_429.jpg,spalling,spalling
+KNN,train/spalling/cls05_435.jpg,spalling,spalling
+KNN,train/spalling/cls05_444.jpg,spalling,spalling
+KNN,train/spalling/cls05_446.jpg,spalling,spalling
+KNN,train/spalling/cls05_448.jpg,spalling,spalling
+KNN,train/spalling/cls05_464.jpg,spalling,spalling
+KNN,train/spalling/cls05_468.jpg,spalling,spalling
+KNN,train/spalling/cls05_470.jpg,spalling,spalling
+KNN,train/spalling/cls05_485.jpg,spalling,peeling
+KNN,train/spalling/cls05_499.jpg,spalling,minor_crack
+KNN,train/stain/cls06_005.jpg,stain,stain
+KNN,train/stain/cls06_017.jpg,stain,minor_crack
+KNN,train/stain/cls06_030.jpg,stain,plain
+KNN,train/stain/cls06_031.jpg,stain,stain
+KNN,train/stain/cls06_045.jpg,stain,algae
+KNN,train/stain/cls06_046.jpg,stain,stain
+KNN,train/stain/cls06_051.jpg,stain,stain
+KNN,train/stain/cls06_059.jpg,stain,stain
+KNN,train/stain/cls06_064.jpg,stain,algae
+KNN,train/stain/cls06_075.jpg,stain,stain
+KNN,train/stain/cls06_077.jpg,stain,stain
+KNN,train/stain/cls06_082.jpg,stain,minor_crack
+KNN,train/stain/cls06_091.jpg,stain,stain
+KNN,train/stain/cls06_102.jpg,stain,stain
+KNN,train/stain/cls06_104.jpg,stain,stain
+KNN,train/stain/cls06_108.jpg,stain,stain
+KNN,train/stain/cls06_109.jpg,stain,plain
+KNN,train/stain/cls06_111.jpg,stain,plain
+KNN,train/stain/cls06_113.jpg,stain,major_crack
+KNN,train/stain/cls06_117.jpg,stain,stain
+KNN,train/stain/cls06_124.jpg,stain,major_crack
+KNN,train/stain/cls06_139.jpg,stain,minor_crack
+KNN,train/stain/cls06_147.jpg,stain,peeling
+KNN,train/stain/cls06_149.jpg,stain,peeling
+KNN,train/stain/cls06_152.jpg,stain,peeling
+KNN,train/stain/cls06_162.jpg,stain,stain
+KNN,train/stain/cls06_164.jpg,stain,major_crack
+KNN,train/stain/cls06_170.jpg,stain,algae
+KNN,train/stain/cls06_173.jpg,stain,spalling
+KNN,train/stain/cls06_179.jpg,stain,stain
+KNN,train/stain/cls06_183.jpg,stain,stain
+KNN,train/stain/cls06_196.jpg,stain,stain
+KNN,train/stain/cls06_201.jpg,stain,stain
+KNN,train/stain/cls06_204.jpg,stain,plain
+KNN,train/stain/cls06_214.jpg,stain,stain
+KNN,train/stain/cls06_216.jpg,stain,stain
+KNN,train/stain/cls06_236.jpg,stain,stain
+KNN,train/stain/cls06_242.jpg,stain,stain
+KNN,train/stain/cls06_250.jpg,stain,stain
+KNN,train/stain/cls06_252.jpg,stain,minor_crack
+KNN,train/stain/cls06_260.jpg,stain,stain
+KNN,train/stain/cls06_267.jpg,stain,plain
+KNN,train/stain/cls06_278.jpg,stain,stain
+KNN,train/stain/cls06_285.jpg,stain,stain
+KNN,train/stain/cls06_305.jpg,stain,minor_crack
+KNN,train/stain/cls06_309.jpg,stain,stain
+KNN,train/stain/cls06_325.jpg,stain,stain
+KNN,train/stain/cls06_339.jpg,stain,algae
+KNN,train/stain/cls06_345.jpg,stain,minor_crack
+KNN,train/stain/cls06_353.jpg,stain,stain
+KNN,train/stain/cls06_377.jpg,stain,minor_crack
+KNN,train/stain/cls06_380.jpg,stain,stain
+KNN,train/stain/cls06_390.jpg,stain,minor_crack
+KNN,train/stain/cls06_398.jpg,stain,major_crack
+KNN,train/stain/cls06_400.jpg,stain,stain
+KNN,train/stain/cls06_402.jpg,stain,stain
+KNN,train/stain/cls06_409.jpg,stain,stain
+KNN,train/stain/cls06_418.jpg,stain,peeling
+KNN,train/stain/cls06_422.jpg,stain,major_crack
+KNN,train/stain/cls06_429.jpg,stain,minor_crack
+KNN,train/stain/cls06_431.jpg,stain,stain
+KNN,train/stain/cls06_433.jpg,stain,minor_crack
+KNN,train/stain/cls06_436.jpg,stain,stain
+KNN,train/stain/cls06_437.jpg,stain,plain
+KNN,train/stain/cls06_438.jpg,stain,stain
+KNN,train/stain/cls06_444.jpg,stain,minor_crack
+KNN,train/stain/cls06_450.jpg,stain,stain
+KNN,train/stain/cls06_451.jpg,stain,stain
+KNN,train/stain/cls06_460.jpg,stain,stain
+KNN,train/stain/cls06_467.jpg,stain,stain
+KNN,train/stain/cls06_485.jpg,stain,minor_crack
+KNN,train/stain/cls06_489.jpg,stain,stain
+KNN,train/stain/cls06_491.jpg,stain,stain
+KNN,train/stain/cls06_495.jpg,stain,minor_crack
+KNN,train/stain/cls06_502.jpg,stain,minor_crack
+KNN,train/stain/cls06_507.jpg,stain,stain
+KNN,train/stain/cls06_521.jpg,stain,stain
+Random Forest (tuned),train/algae/cls00_028.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_029.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_036.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_041.jpg,algae,spalling
+Random Forest (tuned),train/algae/cls00_042.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_044.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_045.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_053.jpg,algae,spalling
+Random Forest (tuned),train/algae/cls00_062.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_065.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_066.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_072.jpg,algae,peeling
+Random Forest (tuned),train/algae/cls00_086.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_088.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_096.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_100.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_103.jpg,algae,peeling
+Random Forest (tuned),train/algae/cls00_122.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_135.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_136.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_140.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_153.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_158.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_166.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_172.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_173.jpg,algae,spalling
+Random Forest (tuned),train/algae/cls00_191.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_203.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_207.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_208.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_218.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_219.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_226.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_235.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_238.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_242.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_245.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_253.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_275.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_285.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_287.jpg,algae,peeling
+Random Forest (tuned),train/algae/cls00_290.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_297.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_308.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_315.jpg,algae,stain
+Random Forest (tuned),train/algae/cls00_316.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_317.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_339.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_349.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_353.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_360.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_368.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_378.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_380.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_386.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_389.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_391.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_399.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_403.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_412.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_415.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_437.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_452.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_456.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_459.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_460.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_465.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_473.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_476.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_478.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_483.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_486.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_490.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_494.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_495.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_496.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_501.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_505.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_511.jpg,algae,spalling
+Random Forest (tuned),train/algae/cls00_519.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_525.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_541.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_552.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_563.jpg,algae,major_crack
+Random Forest (tuned),train/algae/cls00_565.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_567.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_569.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_573.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_582.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_588.jpg,algae,stain
+Random Forest (tuned),train/algae/cls00_604.jpg,algae,algae
+Random Forest (tuned),train/algae/cls00_611.jpg,algae,algae
+Random Forest (tuned),train/major_crack/cls01_010.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_024.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_035.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_040.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_049.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_060.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_067.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_071.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_074.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_077.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_080.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_082.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_085.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_092.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_105.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_107.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_114.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_119.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_121.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_124.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_135.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_136.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_140.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_147.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_148.jpg,major_crack,algae
+Random Forest (tuned),train/major_crack/cls01_180.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_193.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_199.jpg,major_crack,spalling
+Random Forest (tuned),train/major_crack/cls01_203.jpg,major_crack,stain
+Random Forest (tuned),train/major_crack/cls01_204.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_207.jpg,major_crack,algae
+Random Forest (tuned),train/major_crack/cls01_219.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_231.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_235.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_251.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_255.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_261.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_262.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_264.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_270.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_275.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_296.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_310.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_313.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_318.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_332.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_337.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_340.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_342.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_360.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_368.jpg,major_crack,spalling
+Random Forest (tuned),train/major_crack/cls01_381.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_390.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_392.jpg,major_crack,algae
+Random Forest (tuned),train/major_crack/cls01_400.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_403.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_409.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_410.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_411.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_417.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_424.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_428.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_437.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_439.jpg,major_crack,spalling
+Random Forest (tuned),train/major_crack/cls01_440.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_448.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_451.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_463.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_474.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_479.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_483.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_495.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_497.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_499.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_508.jpg,major_crack,minor_crack
+Random Forest (tuned),train/major_crack/cls01_509.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_516.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_519.jpg,major_crack,peeling
+Random Forest (tuned),train/major_crack/cls01_527.jpg,major_crack,stain
+Random Forest (tuned),train/major_crack/cls01_535.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_536.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_542.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_548.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_551.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_564.jpg,major_crack,major_crack
+Random Forest (tuned),train/major_crack/cls01_576.jpg,major_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_007.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_008.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_014.jpg,minor_crack,peeling
+Random Forest (tuned),train/minor_crack/cls02_017.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_018.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_037.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_042.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_044.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_058.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_068.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_081.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_084.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_087.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_088.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_091.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_093.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_094.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_102.jpg,minor_crack,peeling
+Random Forest (tuned),train/minor_crack/cls02_116.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_126.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_127.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_130.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_142.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_152.jpg,minor_crack,stain
+Random Forest (tuned),train/minor_crack/cls02_154.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_155.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_157.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_160.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_161.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_163.jpg,minor_crack,stain
+Random Forest (tuned),train/minor_crack/cls02_171.jpg,minor_crack,spalling
+Random Forest (tuned),train/minor_crack/cls02_173.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_174.jpg,minor_crack,plain
+Random Forest (tuned),train/minor_crack/cls02_177.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_184.jpg,minor_crack,spalling
+Random Forest (tuned),train/minor_crack/cls02_191.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_192.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_198.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_201.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_204.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_205.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_228.jpg,minor_crack,stain
+Random Forest (tuned),train/minor_crack/cls02_242.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_245.jpg,minor_crack,peeling
+Random Forest (tuned),train/minor_crack/cls02_267.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_280.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_300.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_307.jpg,minor_crack,stain
+Random Forest (tuned),train/minor_crack/cls02_316.jpg,minor_crack,spalling
+Random Forest (tuned),train/minor_crack/cls02_317.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_331.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_335.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_351.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_367.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_368.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_386.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_389.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_391.jpg,minor_crack,peeling
+Random Forest (tuned),train/minor_crack/cls02_392.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_397.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_406.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_409.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_410.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_415.jpg,minor_crack,spalling
+Random Forest (tuned),train/minor_crack/cls02_423.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_425.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_430.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_436.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_455.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_482.jpg,minor_crack,major_crack
+Random Forest (tuned),train/minor_crack/cls02_490.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_502.jpg,minor_crack,stain
+Random Forest (tuned),train/minor_crack/cls02_520.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_527.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_537.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_539.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_542.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_551.jpg,minor_crack,stain
+Random Forest (tuned),train/minor_crack/cls02_559.jpg,minor_crack,plain
+Random Forest (tuned),train/minor_crack/cls02_581.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_592.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_597.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_605.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_606.jpg,minor_crack,stain
+Random Forest (tuned),train/minor_crack/cls02_612.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_616.jpg,minor_crack,minor_crack
+Random Forest (tuned),train/minor_crack/cls02_620.jpg,minor_crack,stain
+Random Forest (tuned),train/peeling/cls03_004.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_007.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_014.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_022.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_025.jpg,peeling,major_crack
+Random Forest (tuned),train/peeling/cls03_040.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_041.jpg,peeling,stain
+Random Forest (tuned),train/peeling/cls03_050.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_059.jpg,peeling,minor_crack
+Random Forest (tuned),train/peeling/cls03_066.jpg,peeling,minor_crack
+Random Forest (tuned),train/peeling/cls03_073.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_082.jpg,peeling,major_crack
+Random Forest (tuned),train/peeling/cls03_093.jpg,peeling,stain
+Random Forest (tuned),train/peeling/cls03_096.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_105.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_111.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_117.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_119.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_122.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_123.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_132.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_144.jpg,peeling,minor_crack
+Random Forest (tuned),train/peeling/cls03_148.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_149.jpg,peeling,spalling
+Random Forest (tuned),train/peeling/cls03_151.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_153.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_155.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_175.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_178.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_179.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_189.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_195.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_206.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_209.jpg,peeling,minor_crack
+Random Forest (tuned),train/peeling/cls03_215.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_222.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_223.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_225.jpg,peeling,minor_crack
+Random Forest (tuned),train/peeling/cls03_230.jpg,peeling,major_crack
+Random Forest (tuned),train/peeling/cls03_242.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_244.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_248.jpg,peeling,major_crack
+Random Forest (tuned),train/peeling/cls03_252.jpg,peeling,spalling
+Random Forest (tuned),train/peeling/cls03_253.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_270.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_285.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_292.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_300.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_308.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_312.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_313.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_315.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_321.jpg,peeling,major_crack
+Random Forest (tuned),train/peeling/cls03_338.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_356.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_359.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_367.jpg,peeling,stain
+Random Forest (tuned),train/peeling/cls03_373.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_391.jpg,peeling,stain
+Random Forest (tuned),train/peeling/cls03_393.jpg,peeling,stain
+Random Forest (tuned),train/peeling/cls03_394.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_400.jpg,peeling,algae
+Random Forest (tuned),train/peeling/cls03_410.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_412.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_421.jpg,peeling,stain
+Random Forest (tuned),train/peeling/cls03_422.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_433.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_439.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_445.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_466.jpg,peeling,plain
+Random Forest (tuned),train/peeling/cls03_478.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_480.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_486.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_487.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_492.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_505.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_512.jpg,peeling,peeling
+Random Forest (tuned),train/peeling/cls03_514.jpg,peeling,peeling
+Random Forest (tuned),train/plain/cls04_005.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_007.jpg,plain,major_crack
+Random Forest (tuned),train/plain/cls04_014.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_020.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_025.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_043.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_055.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_060.jpg,plain,minor_crack
+Random Forest (tuned),train/plain/cls04_063.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_067.jpg,plain,minor_crack
+Random Forest (tuned),train/plain/cls04_073.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_079.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_080.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_086.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_092.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_096.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_097.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_101.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_110.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_116.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_117.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_124.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_130.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_141.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_146.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_149.jpg,plain,major_crack
+Random Forest (tuned),train/plain/cls04_151.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_158.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_160.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_161.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_164.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_178.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_196.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_206.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_208.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_229.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_231.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_248.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_252.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_254.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_263.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_266.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_274.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_280.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_288.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_310.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_316.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_331.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_338.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_351.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_361.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_383.jpg,plain,minor_crack
+Random Forest (tuned),train/plain/cls04_384.jpg,plain,minor_crack
+Random Forest (tuned),train/plain/cls04_394.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_395.jpg,plain,peeling
+Random Forest (tuned),train/plain/cls04_401.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_408.jpg,plain,algae
+Random Forest (tuned),train/plain/cls04_409.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_418.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_421.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_432.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_447.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_455.jpg,plain,minor_crack
+Random Forest (tuned),train/plain/cls04_460.jpg,plain,major_crack
+Random Forest (tuned),train/plain/cls04_463.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_466.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_470.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_471.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_481.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_486.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_489.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_505.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_510.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_513.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_516.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_519.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_521.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_531.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_532.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_533.jpg,plain,stain
+Random Forest (tuned),train/plain/cls04_535.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_545.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_551.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_554.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_562.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_570.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_580.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_593.jpg,plain,plain
+Random Forest (tuned),train/plain/cls04_600.jpg,plain,plain
+Random Forest (tuned),train/spalling/cls05_008.jpg,spalling,algae
+Random Forest (tuned),train/spalling/cls05_012.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_016.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_020.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_021.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_025.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_026.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_042.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_047.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_049.jpg,spalling,peeling
+Random Forest (tuned),train/spalling/cls05_055.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_057.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_058.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_063.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_079.jpg,spalling,algae
+Random Forest (tuned),train/spalling/cls05_085.jpg,spalling,minor_crack
+Random Forest (tuned),train/spalling/cls05_086.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_089.jpg,spalling,peeling
+Random Forest (tuned),train/spalling/cls05_097.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_099.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_101.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_109.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_116.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_129.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_131.jpg,spalling,peeling
+Random Forest (tuned),train/spalling/cls05_133.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_143.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_144.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_154.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_158.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_164.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_168.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_176.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_189.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_192.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_197.jpg,spalling,major_crack
+Random Forest (tuned),train/spalling/cls05_210.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_232.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_238.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_243.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_246.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_247.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_248.jpg,spalling,major_crack
+Random Forest (tuned),train/spalling/cls05_254.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_268.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_275.jpg,spalling,algae
+Random Forest (tuned),train/spalling/cls05_279.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_281.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_283.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_284.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_294.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_307.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_330.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_344.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_353.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_366.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_369.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_381.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_385.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_398.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_399.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_400.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_409.jpg,spalling,algae
+Random Forest (tuned),train/spalling/cls05_411.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_427.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_429.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_435.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_444.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_446.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_448.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_464.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_468.jpg,spalling,spalling
+Random Forest (tuned),train/spalling/cls05_470.jpg,spalling,algae
+Random Forest (tuned),train/spalling/cls05_485.jpg,spalling,peeling
+Random Forest (tuned),train/spalling/cls05_499.jpg,spalling,major_crack
+Random Forest (tuned),train/stain/cls06_005.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_017.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_030.jpg,stain,peeling
+Random Forest (tuned),train/stain/cls06_031.jpg,stain,peeling
+Random Forest (tuned),train/stain/cls06_045.jpg,stain,algae
+Random Forest (tuned),train/stain/cls06_046.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_051.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_059.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_064.jpg,stain,algae
+Random Forest (tuned),train/stain/cls06_075.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_077.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_082.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_091.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_102.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_104.jpg,stain,major_crack
+Random Forest (tuned),train/stain/cls06_108.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_109.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_111.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_113.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_117.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_124.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_139.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_147.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_149.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_152.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_162.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_164.jpg,stain,spalling
+Random Forest (tuned),train/stain/cls06_170.jpg,stain,algae
+Random Forest (tuned),train/stain/cls06_173.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_179.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_183.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_196.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_201.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_204.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_214.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_216.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_236.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_242.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_250.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_252.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_260.jpg,stain,peeling
+Random Forest (tuned),train/stain/cls06_267.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_278.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_285.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_305.jpg,stain,plain
+Random Forest (tuned),train/stain/cls06_309.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_325.jpg,stain,algae
+Random Forest (tuned),train/stain/cls06_339.jpg,stain,algae
+Random Forest (tuned),train/stain/cls06_345.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_353.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_377.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_380.jpg,stain,major_crack
+Random Forest (tuned),train/stain/cls06_390.jpg,stain,plain
+Random Forest (tuned),train/stain/cls06_398.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_400.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_402.jpg,stain,major_crack
+Random Forest (tuned),train/stain/cls06_409.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_418.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_422.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_429.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_431.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_433.jpg,stain,major_crack
+Random Forest (tuned),train/stain/cls06_436.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_437.jpg,stain,algae
+Random Forest (tuned),train/stain/cls06_438.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_444.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_450.jpg,stain,spalling
+Random Forest (tuned),train/stain/cls06_451.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_460.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_467.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_485.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_489.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_491.jpg,stain,peeling
+Random Forest (tuned),train/stain/cls06_495.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_502.jpg,stain,minor_crack
+Random Forest (tuned),train/stain/cls06_507.jpg,stain,stain
+Random Forest (tuned),train/stain/cls06_521.jpg,stain,stain

@@ -1,0 +1,30 @@
+{
+  "selected_model": "Random Forest",
+  "selection_criterion": "highest mean 5-fold development CV macro F1",
+  "best_parameters": {
+    "max_depth": 20,
+    "max_features": 0.3,
+    "min_samples_leaf": 1
+  },
+  "parameter_grid": {
+    "max_depth": [
+      20,
+      null
+    ],
+    "min_samples_leaf": [
+      1,
+      2
+    ],
+    "max_features": [
+      "sqrt",
+      0.3
+    ]
+  },
+  "baseline_cv_f1_macro": 0.7384727513851309,
+  "tuned_cv_f1_macro": 0.7401217525719476,
+  "grid_search_seconds": 484.42135874999803,
+  "grid_refit_seconds": 52.8892707824707,
+  "frozen_before_test_evaluation": true,
+  "evaluation_limit": "The same fixed test images were evaluated in earlier project iterations; results are a reused holdout, not a new blind benchmark.",
+  "cv_limit": "The tuning search reuses the same CV folds. Its best CV score is selection-biased; the search is not nested CV."
+}

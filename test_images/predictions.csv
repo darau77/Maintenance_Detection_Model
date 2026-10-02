@@ -1,0 +1,43 @@
+Model,File,True class,Prediction
+Random Forest (tuned),algae.png,algae,algae
+Random Forest (tuned),major_crack.png,major_crack,major_crack
+Random Forest (tuned),minor_crack.png,minor_crack,major_crack
+Random Forest (tuned),peeling.png,peeling,peeling
+Random Forest (tuned),plain.png,plain,plain
+Random Forest (tuned),spalling.png,spalling,algae
+Random Forest (tuned),stain.png,stain,minor_crack
+Logistic Regression,algae.png,algae,algae
+Logistic Regression,major_crack.png,major_crack,spalling
+Logistic Regression,minor_crack.png,minor_crack,major_crack
+Logistic Regression,peeling.png,peeling,peeling
+Logistic Regression,plain.png,plain,plain
+Logistic Regression,spalling.png,spalling,spalling
+Logistic Regression,stain.png,stain,plain
+Decision Tree,algae.png,algae,plain
+Decision Tree,major_crack.png,major_crack,minor_crack
+Decision Tree,minor_crack.png,minor_crack,stain
+Decision Tree,peeling.png,peeling,peeling
+Decision Tree,plain.png,plain,peeling
+Decision Tree,spalling.png,spalling,algae
+Decision Tree,stain.png,stain,stain
+Random Forest,algae.png,algae,algae
+Random Forest,major_crack.png,major_crack,major_crack
+Random Forest,minor_crack.png,minor_crack,major_crack
+Random Forest,peeling.png,peeling,peeling
+Random Forest,plain.png,plain,plain
+Random Forest,spalling.png,spalling,algae
+Random Forest,stain.png,stain,minor_crack
+KNN,algae.png,algae,algae
+KNN,major_crack.png,major_crack,minor_crack
+KNN,minor_crack.png,minor_crack,major_crack
+KNN,peeling.png,peeling,stain
+KNN,plain.png,plain,plain
+KNN,spalling.png,spalling,plain
+KNN,stain.png,stain,stain
+CNN trained from scratch,algae.png,algae,algae
+CNN trained from scratch,major_crack.png,major_crack,spalling
+CNN trained from scratch,minor_crack.png,minor_crack,stain
+CNN trained from scratch,peeling.png,peeling,peeling
+CNN trained from scratch,plain.png,plain,plain
+CNN trained from scratch,spalling.png,spalling,spalling
+CNN trained from scratch,stain.png,stain,stain

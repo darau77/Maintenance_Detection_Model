@@ -1,0 +1,12 @@
+numpy==2.3.5
+pandas==2.2.3
+Pillow==12.3.0
+scikit-learn==1.9.1
+scikit-image==0.26.0
+matplotlib==3.11.2
+joblib==1.6.0
+streamlit==1.64.0
+torch==2.14.1
+torchvision==0.29.1
+ipykernel==7.4.0
+nbformat==5.11.1

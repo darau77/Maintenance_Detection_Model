@@ -1,0 +1,8 @@
+{
+  "accepted_using_validation_only": true,
+  "new_best_validation_macro_f1": 0.7773706196116882,
+  "old_terminal10_accuracy_mean_abs_change": 0.05707762557077625,
+  "new_terminal10_accuracy_mean_abs_change": 0.010464231354642325,
+  "relative_reduction": 0.8166666666666664,
+  "new_test_evaluated_at_decision": false
+}

@@ -27,7 +27,21 @@
   "CNN trained from scratch": {
     "type": "cnn",
     "file": "models/cnn.pt",
-    "test_accuracy": 0.7791095890410958,
+    "test_accuracy": 0.8116438356164384,
+    "classes": [
+      "algae",
+      "major_crack",
+      "minor_crack",
+      "peeling",
+      "plain",
+      "spalling",
+      "stain"
+    ]
+  },
+  "ViT trained from scratch": {
+    "type": "vit",
+    "file": "models/vit.pt",
+    "test_accuracy": 0.7106164383561644,
     "classes": [
       "algae",
       "major_crack",

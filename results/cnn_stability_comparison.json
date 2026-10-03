@@ -1,0 +1,115 @@
+{
+  "window_definition": "10 raw epochs, 9 adjacent differences; population SD uses ddof=0",
+  "test_used_for_selection": false,
+  "windows": {
+    "matched_epochs_21_30": {
+      "baseline": {
+        "epoch_start": 21,
+        "epoch_end": 30,
+        "validation_accuracy": {
+          "mean": 0.7054794520547946,
+          "population_std": 0.045857174633617805,
+          "mean_absolute_adjacent_change": 0.05707762557077625
+        },
+        "validation_macro_f1": {
+          "mean": 0.6908940922899215,
+          "population_std": 0.05515296988853889,
+          "mean_absolute_adjacent_change": 0.06715072515354169
+        },
+        "validation_loss": {
+          "mean": 0.9120786444985705,
+          "population_std": 0.21560383552658913,
+          "mean_absolute_adjacent_change": 0.28981154964304046
+        }
+      },
+      "revised": {
+        "epoch_start": 21,
+        "epoch_end": 30,
+        "validation_accuracy": {
+          "mean": 0.7277397260273972,
+          "population_std": 0.03724069036118416,
+          "mean_absolute_adjacent_change": 0.024733637747336376
+        },
+        "validation_macro_f1": {
+          "mean": 0.7197631737077733,
+          "population_std": 0.03842031384460568,
+          "mean_absolute_adjacent_change": 0.026532900095120486
+        },
+        "validation_loss": {
+          "mean": 0.7828842672583175,
+          "population_std": 0.11691501456606758,
+          "mean_absolute_adjacent_change": 0.07433903761650325
+        }
+      },
+      "adjacent_change_reduction_percent": {
+        "validation_accuracy": 56.666666666666664,
+        "validation_macro_f1": 60.48754494541586,
+        "validation_loss": 74.34918045603555
+      }
+    },
+    "terminal_10": {
+      "baseline": {
+        "epoch_start": 21,
+        "epoch_end": 30,
+        "validation_accuracy": {
+          "mean": 0.7054794520547946,
+          "population_std": 0.045857174633617805,
+          "mean_absolute_adjacent_change": 0.05707762557077625
+        },
+        "validation_macro_f1": {
+          "mean": 0.6908940922899215,
+          "population_std": 0.05515296988853889,
+          "mean_absolute_adjacent_change": 0.06715072515354169
+        },
+        "validation_loss": {
+          "mean": 0.9120786444985705,
+          "population_std": 0.21560383552658913,
+          "mean_absolute_adjacent_change": 0.28981154964304046
+        }
+      },
+      "revised": {
+        "epoch_start": 31,
+        "epoch_end": 40,
+        "validation_accuracy": {
+          "mean": 0.7671232876712328,
+          "population_std": 0.008897521271757925,
+          "mean_absolute_adjacent_change": 0.010464231354642325
+        },
+        "validation_macro_f1": {
+          "mean": 0.7612288027424208,
+          "population_std": 0.008663807586576693,
+          "mean_absolute_adjacent_change": 0.009541506040618911
+        },
+        "validation_loss": {
+          "mean": 0.6509974870779743,
+          "population_std": 0.019990153644118446,
+          "mean_absolute_adjacent_change": 0.018160828353788922
+        }
+      },
+      "adjacent_change_reduction_percent": {
+        "validation_accuracy": 81.66666666666664,
+        "validation_macro_f1": 85.79091138807208,
+        "validation_loss": 93.73357329058916
+      }
+    }
+  },
+  "best_validation": {
+    "baseline": {
+      "epoch": 24,
+      "macro_f1": 0.7593619909382993,
+      "accuracy": 0.7654109589041096
+    },
+    "revised": {
+      "epoch": 38,
+      "macro_f1": 0.7773706196116882,
+      "accuracy": 0.7842465753424658
+    }
+  },
+  "prespecified_checks": {
+    "minimum_best_validation_macro_f1": 0.7493619909382992,
+    "maximum_terminal10_accuracy_mean_absolute_change": 0.02853957382039573,
+    "validation_performance_pass": true,
+    "validation_stability_pass": true
+  },
+  "limitations": "Single fixed-seed experiment; batch size, learning rate, scheduler, and epoch budget change together. No isolated causal or formal significance claim."
+}

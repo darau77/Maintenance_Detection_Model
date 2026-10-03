@@ -34,10 +34,17 @@ KNN,peeling.png,peeling,stain
 KNN,plain.png,plain,plain
 KNN,spalling.png,spalling,plain
 KNN,stain.png,stain,stain
+ViT trained from scratch,algae.png,algae,algae
+ViT trained from scratch,major_crack.png,major_crack,major_crack
+ViT trained from scratch,minor_crack.png,minor_crack,stain
+ViT trained from scratch,peeling.png,peeling,peeling
+ViT trained from scratch,plain.png,plain,major_crack
+ViT trained from scratch,spalling.png,spalling,algae
+ViT trained from scratch,stain.png,stain,minor_crack
 CNN trained from scratch,algae.png,algae,algae
-CNN trained from scratch,major_crack.png,major_crack,spalling
-CNN trained from scratch,minor_crack.png,minor_crack,stain
+CNN trained from scratch,major_crack.png,major_crack,major_crack
+CNN trained from scratch,minor_crack.png,minor_crack,minor_crack
 CNN trained from scratch,peeling.png,peeling,peeling
 CNN trained from scratch,plain.png,plain,plain
 CNN trained from scratch,spalling.png,spalling,spalling
-CNN trained from scratch,stain.png,stain,stain
+CNN trained from scratch,stain.png,stain,minor_crack

@@ -7,6 +7,7 @@ OPEN FIRST
 report.docx          First-person report, including Tasks 5, 6 and 7.
 notebook.ipynb        Main workflow: four classifiers, 5-fold CV and tuning.
 cnn_training.ipynb    Extra experiment: a small CNN trained from random weights.
+vit_training.ipynb    Extra experiment: a small Vision Transformer from scratch.
 app.py               Simple local image-upload demonstration.
 
 MEASURED RESULTS
@@ -16,12 +17,13 @@ Decision Tree                    55.31%          0.5517
 Random Forest                    75.34%          0.7504
 KNN                              65.07%          0.6375
 Random Forest (tuned)            76.37%          0.7612
-CNN trained from scratch        77.91%          0.7741
+CNN trained from scratch        81.16%          0.8085
+ViT trained from scratch        71.06%          0.7055
 
 The default website model is tuned Random Forest, chosen through the classical
-CV comparison. Select another model to compare predictions. The CNN is an extra
-experiment with a separate validation set; it did not participate in that CV
-ranking. All six test results use the same 584 images. Earlier project versions
+CV comparison. Select another model to compare predictions. CNN and ViT are extra
+experiments with a separate validation set; they did not participate in that CV
+ranking. All seven test results use the same 584 images. Earlier project versions
 also used this holdout, so these results are not a fresh blind benchmark.
 
 RUN THE WEBSITE
@@ -46,10 +48,23 @@ Run all cells in order. This repeats the real training, CV, grid search and
 held-out evaluation. It takes several minutes on a CPU. The delivered main
 notebook already contains executed outputs.
 
-The CNN notebook contains the full training/evaluation code and clearly marked
-recorded output from the completed 30-epoch run. Running all its cells trains a
-new CNN and replaces the saved CNN weights and metrics. CPU versions or hardware
-can affect numerical results and runtime. Neither notebook downloads weights.
+The CNN notebook contains the executed revised training/evaluation workflow.
+The network starts from random weights. I reduced Adam's initial learning rate
+from 0.001 to 0.0005, gradually reduced it to 0.00001, used batches of 64 instead
+of 32, and trained for 40 epochs instead of 30. Raw before/after validation curves
+and both matched-window and final-ten-epoch stability measures are included.
+No moving average or edited validation scores are used. Original CNN histories
+and metrics are retained as results/cnn_before_stabilization_* files.
+Running all cells retrains the CNN and updates its model and demo metrics.
+Hardware and library versions can affect results and runtime.
+No notebook downloads pretrained model weights.
+
+The ViT notebook contains the executed workflow for a small Vision Transformer.
+It divides each 96 by 96 image into 64 patches of 12 by 12 pixels. Three
+transformer blocks process the patch embeddings and predict one of seven classes.
+Run its cells in order to repeat training, validation checkpoint selection and
+testing. The run uses 50 epochs; the selected epoch is recorded in its metrics.
+The ViT notebook updates its saved model and its row in the website comparison.
 
 DATA AND EVALUATION
 The original 3,965 images were checked for exact pixel duplicates. I excluded
@@ -62,8 +77,10 @@ fold. Highest mean CV macro F1 selects the model for GridSearchCV.
 Random Forest tuning searches three parameters: max_depth, min_samples_leaf,
 and max_features. Eight combinations produce 40 fold fits, followed by refit.
 The best CV score reuses the selection folds and is not nested CV.
-CNN uses the original 2,725 training / 584 validation / 584 test split and picks
-its epoch using validation macro F1. Test images never select an epoch.
+CNN and ViT use the original 2,725 training / 584 validation / 584 test split and
+pick their epochs using validation macro F1. Test images never select an epoch.
+These neural models have different architectures and training budgets: the CNN
+runs 40 epochs and the ViT runs 50. Their comparison is observational.
 
 RESULT FILES
 model_comparison.csv       Test metrics and recorded example timing for all models.
@@ -74,13 +91,17 @@ classical_results.json     Full classical settings, metrics and confusion matric
 grid_search_results.json   Every tried Random Forest setting and fold metrics.
 notebook_*.csv/json/png    Outputs from the separately executed main notebook.
 cnn_metrics.json           CNN metrics, settings and confusion matrix.
-cnn_history.csv            All 30 CNN training and validation epochs.
+cnn_history.csv            All 40 revised CNN training/validation epochs.
+cnn_before_stabilization_* Original CNN evidence for before/after comparison.
+cnn_stability_comparison.json Raw validation stability measurements.
+vit_metrics.json           ViT settings, validation/test scores and class metrics.
+vit_history.csv            All 50 ViT training and validation epochs.
 All these files are in results/. Figures are also saved there.
 Scores use 0–1 in CSV files. Macro scores weight the seven classes equally.
 Balanced accuracy equals macro recall for this multiclass task. Timing is an
 example measurement, changes between runs, and excludes image preprocessing
-for prediction. CNN epoch timing includes validation. It is not directly
-comparable to classical final-fit timing. A blank CNN development accuracy
+for prediction. CNN and ViT epoch timing includes validation. It is not directly
+comparable to classical final-fit timing. Blank neural development accuracy
 means it was not measured over the combined classical development subset.
 
 SCOPE

@@ -1,0 +1,19 @@
+{
+  "decision_data": "validation only, before evaluating the new checkpoint on test",
+  "planned_run": {
+    "epochs": 40,
+    "batch_size": 64,
+    "optimizer": "Adam",
+    "learning_rate": 0.0005,
+    "cosine_min_learning_rate": 1e-05,
+    "seed": 42
+  },
+  "checkpoint_selection": "highest validation macro F1",
+  "baseline_best_validation_macro_f1": 0.7593619909382993,
+  "acceptance": {
+    "minimum_best_validation_macro_f1": 0.7493619909382992,
+    "maximum_terminal10_mean_absolute_accuracy_change": 0.02853957382039573,
+    "description": "At most 0.01 lower best validation macro F1 and at least 50 percent lower mean absolute adjacent validation accuracy change across each run final ten epochs. Also inspect matched epochs21-30."
+  },
+  "limits": "Single seed; several training settings and epoch budget change together. No isolated causal attribution or formal significance claim."
+}

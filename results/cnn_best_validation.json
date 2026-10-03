@@ -1,22 +1,10 @@
 {
-  "epoch": 24,
-  "train_loss": 0.5337418276235598,
-  "train_accuracy": 0.8062385321100918,
-  "validation_loss": 0.6436997880674389,
-  "validation_accuracy": 0.7654109589041096,
-  "validation_macro_f1": 0.7593619909382993,
-  "seconds": 9.9,
-  "classes": [
-    "algae",
-    "major_crack",
-    "minor_crack",
-    "peeling",
-    "plain",
-    "spalling",
-    "stain"
-  ],
-  "training_count": 2725,
-  "validation_count": 584,
-  "pretrained": false,
-  "checkpoint_selection": "highest validation macro F1"
+  "epoch": 38,
+  "learning_rate": 1.6769369502569243e-05,
+  "train_loss": 0.39728633777810896,
+  "train_accuracy": 0.8623853211009175,
+  "validation_loss": 0.6325241849847036,
+  "validation_accuracy": 0.7842465753424658,
+  "validation_macro_f1": 0.7773706196116882,
+  "seconds": 5.97
 }

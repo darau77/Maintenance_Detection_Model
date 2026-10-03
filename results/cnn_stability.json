@@ -1,0 +1,54 @@
+{
+  "window_epochs": 10,
+  "adjacent_changes": 9,
+  "standard_deviation_ddof": 0,
+  "selection_uses_test": false,
+  "runs": {
+    "baseline": {
+      "epochs": 30,
+      "best_epoch": 24,
+      "best_validation_macro_f1": 0.7593619909382993,
+      "selected_validation_accuracy": 0.7654109589041096,
+      "last10": {
+        "validation_accuracy": {
+          "mean": 0.7054794520547946,
+          "population_std": 0.045857174633617805,
+          "mean_absolute_adjacent_change": 0.05707762557077625
+        },
+        "validation_macro_f1": {
+          "mean": 0.6908940922899215,
+          "population_std": 0.05515296988853889,
+          "mean_absolute_adjacent_change": 0.06715072515354169
+        },
+        "validation_loss": {
+          "mean": 0.9120786444985705,
+          "population_std": 0.21560383552658913,
+          "mean_absolute_adjacent_change": 0.28981154964304046
+        }
+      }
+    },
+    "revised": {
+      "epochs": 40,
+      "best_epoch": 38,
+      "best_validation_macro_f1": 0.7773706196116882,
+      "selected_validation_accuracy": 0.7842465753424658,
+      "last10": {
+        "validation_accuracy": {
+          "mean": 0.7671232876712328,
+          "population_std": 0.008897521271757925,
+          "mean_absolute_adjacent_change": 0.010464231354642325
+        },
+        "validation_macro_f1": {
+          "mean": 0.7612288027424208,
+          "population_std": 0.008663807586576693,
+          "mean_absolute_adjacent_change": 0.009541506040618911
+        },
+        "validation_loss": {
+          "mean": 0.6509974870779743,
+          "population_std": 0.019990153644118446,
+          "mean_absolute_adjacent_change": 0.018160828353788922
+        }
+      }
+    }
+  }
+}
